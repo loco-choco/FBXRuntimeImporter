@@ -18,7 +18,7 @@ namespace FBXAnimationImporter
                 return ReadBytes(checked((int)(arrayDataTypeSize * arrayLength)));
 
             else if (encoding == 1)
-                throw new Exception("Encoding ainda nao e suportado :(");
+                throw new Exception("Encoding 1 still not supported :(");
             //return new ReadBytes(checked((int)compressedLength))); Descompress with com zlib, but not going to do it now ;)
             else
                 throw new Exception("This type of enconding wasn't normally observerd, here is the number that represents it: " + encoding);
