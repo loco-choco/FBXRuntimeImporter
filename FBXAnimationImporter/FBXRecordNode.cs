@@ -61,7 +61,7 @@ namespace FBXAnimationImporter
 
                     //new position = old position + 13 bytes that are always read + the amount of bytes in the name +the size in bytes of the PropList
                     NestedRecords.Add(new FBXRecordNode(ref fullList, position + 13 + NameLen + (int)PropertyListLen));
-                    while (NestedRecords[NestedRecords.Count - 1].EndOffset >= EndOffset - 25) //Find a better way to generate nested nodes
+                    while (NestedRecords[NestedRecords.Count - 1].EndOffset < EndOffset - 25) //Find a better way to generate nested nodes (Nested Nested nodes aren't appearing :/)
                         NestedRecords.Add(new FBXRecordNode(ref fullList, (int)NestedRecords[NestedRecords.Count-1].EndOffset));
                 }
         }
