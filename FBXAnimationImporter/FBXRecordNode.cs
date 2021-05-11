@@ -54,14 +54,14 @@ namespace FBXAnimationImporter
                 PropertyList.Add(reader.ReadProperty()); //Something aint working here, the size of the properties shoudn't be smaller then the number of properties
             
             //Nested Records
-            if (byteAsList.Count > 25 && EndOffset != 0)
-                if (byteAsList.GetRange(byteAsList.Count - 25, 25).TrueForAll(new Predicate<byte>(IsNull)))
+            if (byteAsList.Count > 13 && EndOffset != 0)
+                if (byteAsList.GetRange(byteAsList.Count - 13, 13).TrueForAll(new Predicate<byte>(IsNull)))
                 {
                     //the 13(25) bytes are there for a reason, there needs to be ONE empty node AND a NOT completed node (13 + 13 = 26, but only 25 bytes...)
 
                     //new position = old position + 13 bytes that are always read + the amount of bytes in the name +the size in bytes of the PropList
                     NestedRecords.Add(new FBXRecordNode(ref fullList, position + 13 + NameLen + (int)PropertyListLen));
-                    while (NestedRecords[NestedRecords.Count - 1].EndOffset < EndOffset - 25) //Find a better way to generate nested nodes (Nested Nested nodes aren't appearing :/)
+                    while (NestedRecords[NestedRecords.Count - 1].EndOffset < EndOffset - 13 && (position + 26 + NameLen + (int)PropertyListLen < EndOffset)) //Find a better way to generate nested nodes (Nested Nested nodes aren't appearing :/)
                         NestedRecords.Add(new FBXRecordNode(ref fullList, (int)NestedRecords[NestedRecords.Count-1].EndOffset));
                 }
         }
