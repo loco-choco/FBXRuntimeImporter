@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using Ionic.Zlib;
 
 namespace FBXAnimationImporter
 {
@@ -7,6 +8,17 @@ namespace FBXAnimationImporter
     {
         public FBXPacketReader(byte[] data) : base(new MemoryStream(data))
         {
+        }
+
+        //Example: https://github.com/DinoChiesa/DotNetZip/blob/master/Examples/c%23/ZLIB/ZlibStreamExample.cs
+        static void CopyStream(Stream copiedStream, Stream receivingStream)
+        {
+            byte[] tempBuffer = new byte[1024];
+            int bytesRead = 0;
+            while ((bytesRead = copiedStream.Read(tempBuffer, 0, tempBuffer.Length)) > 0)
+                receivingStream.Write(tempBuffer, 0, bytesRead);
+
+            receivingStream.Flush();
         }
 
         private byte[] ReadDataArrayBytes(byte arrayDataTypeSize)
@@ -17,9 +29,13 @@ namespace FBXAnimationImporter
             if (encoding == 0)
                 return ReadBytes(checked((int)(arrayDataTypeSize * arrayLength)));
 
-            else if (encoding == 1)
-                throw new Exception("Encoding 1 still not supported :(");
-            //return new ReadBytes(checked((int)compressedLength))); Decompress with com zlib, but not going to do it now ;)
+            else if (encoding == 1)//https://archive.codeplex.com/?p=dotnetzip
+            {
+                MemoryStream decompresedArray = new MemoryStream();
+                ZlibStream ZlibStream = new ZlibStream(decompresedArray ,CompressionMode.Decompress, true);
+                CopyStream(new MemoryStream(ReadBytes(checked((int)compressedLength))), ZlibStream);
+                return decompresedArray.ToArray();
+            }
             else
                 throw new Exception("This type of enconding wasn't normally observerd, here is the number that represents it: " + encoding);
         }
@@ -81,7 +97,7 @@ namespace FBXAnimationImporter
 
                 case 'd':
                     dataInBytes = ReadDataArrayBytes(1);
-                    double[] doubles = new double[dataInBytes.Length / 4];
+                    double[] doubles = new double[dataInBytes.Length / 8];
                     for (int index = 0; index < doubles.Length; index++)
                         doubles[index] = BitConverter.ToDouble(dataInBytes, index * 8);
 

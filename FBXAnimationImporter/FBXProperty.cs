@@ -61,23 +61,23 @@ namespace FBXAnimationImporter
 
                 case FBXPropertyType.BOOL_ARRAY:
                     foreach (bool b in boolArrayProperty)
-                        s += b.ToString() + ' ';
+                        s += b.ToString() + " , ";
                     return $"Bool Array[{boolArrayProperty.Length}]: " + s;
                 case FBXPropertyType.INT32_ARRAY:
                     foreach (int i in int32ArrayProperty)
-                        s += i + ' ';
+                        s += i + " , ";
                     return $"Int32 Array[{int32ArrayProperty.Length}]: "+ s;
                 case FBXPropertyType.INT64_ARRAY:
                     foreach (long l in int64ArrayProperty)
-                        s += l + ' ';
+                        s += l + " , ";
                     return $"Int64 Array[{int64ArrayProperty.Length}]: "+ s;
                 case FBXPropertyType.SINGLE_ARRAY:
                     foreach (float f in singleArrayProperty)
-                        s += f + ' ';
+                        s += f + " , ";
                     return $"Single Array[{singleArrayProperty.Length}]: "+ s;
                 case FBXPropertyType.DOUBLE_ARRAY:
                     foreach (int d in doubleArrayProperty)
-                        s += d + ' ';
+                        s += d + " , ";
                     return $"Double Array[{doubleArrayProperty.Length}]: " + s;
 
                 case FBXPropertyType.STRING:
