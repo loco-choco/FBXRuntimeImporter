@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3DE10FE3-2A53-467B-860E-C543C5AA6451}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FBXAnimationImporter</RootNamespace>
-    <AssemblyName>FBXAnimationImporter</AssemblyName>
+    <RootNamespace>FBXRuntimeImporter</RootNamespace>
+    <AssemblyName>FBXRuntimeImporter</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
