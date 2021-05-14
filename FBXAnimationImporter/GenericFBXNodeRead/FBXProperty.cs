@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FBXAnimationImporter
+namespace FBXRuntimeImporter
 {
     public class FBXProperty
     {

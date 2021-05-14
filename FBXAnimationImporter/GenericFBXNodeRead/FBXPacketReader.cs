@@ -2,7 +2,7 @@
 using System.IO;
 using Ionic.Zlib;
 
-namespace FBXAnimationImporter
+namespace FBXRuntimeImporter
 {
     public class FBXPacketReader : BinaryReader
     {
