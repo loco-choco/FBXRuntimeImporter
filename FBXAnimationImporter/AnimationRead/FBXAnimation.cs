@@ -4,29 +4,43 @@ using System.Text;
 
 namespace FBXRuntimeImporter.AnimationRead
 {
-    public class FBXAnimationNodes
+    public class FBXAnimation
     {
-        public FBXRecordNode AnimationStack;
-        public FBXRecordNode AnimationLayer;
-        public List<AnimationNode> AnimationNodes;
-
-        public FBXAnimationNodes(FBXRecordNode AnimationStack, FBXRecordNode AnimationLayer)
+        FBXBoneAnimation[] BonesAnimation;
+        FBXAnimationNode FocalLenghAnimation;
+        public FBXAnimation(FBXAnimationNodes animationNodes)
         {
-            this.AnimationStack = AnimationStack;
-            this.AnimationLayer = AnimationLayer;
-            AnimationNodes = new List<AnimationNode>();
+            BonesAnimation = new FBXBoneAnimation[(animationNodes.AnimationNodes.Count-1)/3];
+            for (int i = 0; i < BonesAnimation.Length; i++)
+                BonesAnimation[i] = new FBXBoneAnimation(animationNodes.AnimationNodes[i * 3], animationNodes.AnimationNodes[i * 3 + 1]
+                    , animationNodes.AnimationNodes[i * 3 + 2]);
+
+            FocalLenghAnimation = animationNodes.AnimationNodes[animationNodes.AnimationNodes.Count - 1];
         }
     }
-
-    public class AnimationNode
+    public class FBXBoneAnimation
     {
-        public FBXRecordNode Node;
-        public List<FBXRecordNode> AnimationCurves;
+        FBXAnimationCurve[] PositionCurves = new FBXAnimationCurve[3];
+        FBXAnimationCurve[] RotationCurves = new FBXAnimationCurve[3]; //In euler angles :/
+        FBXAnimationCurve[] ScaleCurves = new FBXAnimationCurve[3];
 
-        public AnimationNode(FBXRecordNode AnimationNode)
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="PositionAnimationCurveNode">The AnimationCurveNode node not the AnimationCurve node</param>
+        /// <param name="RotationAnimationCurveNode">The AnimationCurveNode node not the AnimationCurve node</param>
+        /// <param name="ScaleAnimationCurveNode">The AnimationCurveNode node not the AnimationCurve node</param>
+        public FBXBoneAnimation(FBXAnimationNode PositionAnimationCurveNode, FBXAnimationNode RotationAnimationCurveNode, FBXAnimationNode ScaleAnimationCurveNode)
         {
-            AnimationNode = Node;
-            AnimationCurves = new List<FBXRecordNode>();
+            for (int i = 0; i < 3; i++)
+                PositionCurves[i] = new FBXAnimationCurve(PositionAnimationCurveNode.AnimationCurves[i]);
+
+            for (int i = 0; i < 3; i++)
+                RotationCurves[i] = new FBXAnimationCurve(RotationAnimationCurveNode.AnimationCurves[i]);
+
+            for (int i = 0; i < 3; i++)
+                ScaleCurves[i] = new FBXAnimationCurve(ScaleAnimationCurveNode.AnimationCurves[i]);
         }
     }
 }

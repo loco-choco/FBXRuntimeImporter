@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnimationRead\FBXAnimation.cs" />
+    <Compile Include="AnimationRead\FBXAnimationCurves.cs" />
+    <Compile Include="AnimationRead\FBXAnimationNodes.cs" />
     <Compile Include="FBXFileParser.cs" />
     <Compile Include="GenericFBXNodeRead\FBXPacketReader.cs" />
     <Compile Include="GenericFBXNodeRead\FBXProperty.cs" />
