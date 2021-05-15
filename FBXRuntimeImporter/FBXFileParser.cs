@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using FBXRuntimeImporter.AnimationRead;
 using System.Text;
 
 namespace FBXRuntimeImporter
@@ -57,6 +58,49 @@ namespace FBXRuntimeImporter
                     + "\n\n" + Objects.ToString()
                     + "\n\n" + Connections.ToString()
                     + "\n\n" + Takes.ToString();
+        }
+
+        public FBXAnimation[] ReadAnimation()
+        {
+            List<FBXAnimationGroup> animationsInNodes = new List<FBXAnimationGroup>();
+            List<string> boneNames = new List<string>();
+            int animToGiveNodes = -1; //1- - none, 0 - animationOne, 1 - //Two ...
+            int nodeToGiveCurve = -1; // ^ but for each node of each animation
+            for (int i = 0; i < Objects.NestedRecords.Count; i++)
+            {
+                //Finding the /BONES/
+                if (Objects.NestedRecords[i].Name == "Model") 
+                {
+                    if (FBXProperty.FromHexToChar(Objects.NestedRecords[i].PropertyList[2].stringProperty) == "LimbNode")
+                    {
+                        string s = FBXProperty.FromHexToChar(Objects.NestedRecords[i].PropertyList[1].stringProperty);
+                        boneNames.Add(s.Substring(0, s.LastIndexOf('\0')));
+                    }
+                }
+                //Marks the beggining of a new animation
+                else if (Objects.NestedRecords[i].Name == "AnimationStack" && Objects.NestedRecords[i + 1].Name == "AnimationLayer")
+                {
+                    animToGiveNodes++;
+                    nodeToGiveCurve = -1;
+                    animationsInNodes.Add(new FBXAnimationGroup(Objects.NestedRecords[i], Objects.NestedRecords[i + 1]));
+                }
+                //Marks the beggining of a new animation array(a single or trio (x , y , z)
+                else if (Objects.NestedRecords[i].Name == "AnimationCurveNode")
+                {
+                    nodeToGiveCurve++;
+                    animationsInNodes[animToGiveNodes].AnimationNodes.Add(new FBXAnimationNode(Objects.NestedRecords[i]));
+                }
+                //The curves
+                else if (animToGiveNodes > -1 && animToGiveNodes < animationsInNodes.Count && Objects.NestedRecords[i].Name == "AnimationCurve")
+                    animationsInNodes[animToGiveNodes].AnimationNodes[nodeToGiveCurve].AnimationCurves.Add(Objects.NestedRecords[i]);
+            }
+
+            //Parse the nodes to a more usable format
+            List<FBXAnimation> animations = new List<FBXAnimation>();
+            foreach (var nodes in animationsInNodes)
+                animations.Add(new FBXAnimation(nodes, boneNames.ToArray()));
+
+            return animations.ToArray();
         }
     }
 }

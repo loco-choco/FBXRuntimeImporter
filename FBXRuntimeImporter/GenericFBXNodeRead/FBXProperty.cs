@@ -81,13 +81,31 @@ namespace FBXRuntimeImporter
                     return $"Double Array[{doubleArrayProperty.Length}]: " + s;
 
                 case FBXPropertyType.STRING:
-                    return $"String[{stringProperty.Length}]: " + stringProperty;
+                    return $"String[{stringProperty.Length}]: " + stringProperty + $" (In ASCII: {FromHexToChar(stringProperty)})";
                 case FBXPropertyType.RAW_BYTES:
                     for (int i = 0; i < rawBytesProperty.Length; i++)
                         s += rawBytesProperty[i] + ((i%8==0 && i>0) ? " " : "");
                     return $"Raw Bytes[{rawBytesProperty.Length}]: " + s;
             }
             return s;
+        }
+
+        /// <summary>
+        /// Only for the strings that come from the FBX file
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
+        static public string FromHexToChar(string s)
+        {
+            string parsedString = "";
+            try
+            {
+                for (int i = 0; i < s.Length; i += 3)
+                    parsedString += Convert.ToChar(Convert.ToByte(s.Substring(i, 2), 16));
+            }
+            catch { }
+
+            return parsedString;
         }
     }
     public enum FBXPropertyType : byte

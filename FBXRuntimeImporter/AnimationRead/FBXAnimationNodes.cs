@@ -4,13 +4,13 @@ using System.Text;
 
 namespace FBXRuntimeImporter.AnimationRead
 {
-    public class FBXAnimationNodes
+    public class FBXAnimationGroup
     {
         public FBXRecordNode AnimationStack;
         public FBXRecordNode AnimationLayer;
         public List<FBXAnimationNode> AnimationNodes;
 
-        public FBXAnimationNodes(FBXRecordNode AnimationStack, FBXRecordNode AnimationLayer)
+        public FBXAnimationGroup(FBXRecordNode AnimationStack, FBXRecordNode AnimationLayer)
         {
             this.AnimationStack = AnimationStack;
             this.AnimationLayer = AnimationLayer;

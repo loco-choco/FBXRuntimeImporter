@@ -32,12 +32,18 @@ namespace FBXRuntimeImporter.AnimationRead
     public struct FBXKeyFrame
     {
         public long Time;
+        public float TimeInSeconds;
         public float Value;
         public FBXKeyFrame(float Value, long Time)
         {
             this.Value = Value;
             //Grows in 1924423250 increments
             this.Time = Time;
+            TimeInSeconds = Time / (1924423250 * 24f);
+        }
+        override public string ToString()
+        {
+            return $"{TimeInSeconds}s - {Value}";
         }
     }
 }

@@ -1,0 +1,2145 @@
+Versao do Arquivo: 7400
+FBXHeaderExtension: EndOffset - 1869 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 6< FBXHeaderVersion: EndOffset - 92 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1003
+ Size of Nested Records - 0< >
+FBXVersion: EndOffset - 120 | Size of Properties - 5 | Num of Properties - 1 :Int32: 7400
+ Size of Nested Records - 0< >
+EncryptionType: EndOffset - 152 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+CreationTimeStamp: EndOffset - 385 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 8< Version: EndOffset - 207 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1000
+ Size of Nested Records - 0< >
+Year: EndOffset - 229 | Size of Properties - 5 | Num of Properties - 1 :Int32: 2021
+ Size of Nested Records - 0< >
+Month: EndOffset - 252 | Size of Properties - 5 | Num of Properties - 1 :Int32: 5
+ Size of Nested Records - 0< >
+Day: EndOffset - 273 | Size of Properties - 5 | Num of Properties - 1 :Int32: 14
+ Size of Nested Records - 0< >
+Hour: EndOffset - 295 | Size of Properties - 5 | Num of Properties - 1 :Int32: 20
+ Size of Nested Records - 0< >
+Minute: EndOffset - 319 | Size of Properties - 5 | Num of Properties - 1 :Int32: 48
+ Size of Nested Records - 0< >
+Second: EndOffset - 343 | Size of Properties - 5 | Num of Properties - 1 :Int32: 51
+ Size of Nested Records - 0< >
+Millisecond: EndOffset - 372 | Size of Properties - 5 | Num of Properties - 1 :Int32: 839
+ Size of Nested Records - 0< >
+>
+Creator: EndOffset - 451 | Size of Properties - 46 | Num of Properties - 1 :String[122]: 42-6C-65-6E-64-65-72-20-28-73-74-61-62-6C-65-20-46-42-58-20-49-4F-29-20-2D-20-32-2E-39-32-2E-30-20-2D-20-34-2E-32-32-2E-30 (In ASCII: Blender (stable FBX IO) - 2.92.0 - 4.22.0)
+ Size of Nested Records - 0< >
+SceneInfo: EndOffset - 1856 | Size of Properties - 39 | Num of Properties - 2 :String[62]: 47-6C-6F-62-61-6C-49-6E-66-6F-00-01-53-63-65-6E-65-49-6E-66-6F (In ASCII: GlobalInfo ☺SceneInfo)
+String[23]: 55-73-65-72-44-61-74-61 (In ASCII: UserData)
+ Size of Nested Records - 4< Type: EndOffset - 542 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 55-73-65-72-44-61-74-61 (In ASCII: UserData)
+ Size of Nested Records - 0< >
+Version: EndOffset - 567 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+MetaData: EndOffset - 775 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 7< Version: EndOffset - 613 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+Title: EndOffset - 636 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Subject: EndOffset - 661 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Author: EndOffset - 685 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Keywords: EndOffset - 711 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Revision: EndOffset - 737 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Comment: EndOffset - 762 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+>
+Properties70: EndOffset - 1843 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 13< P: EndOffset - 871 | Size of Properties - 57 | Num of Properties - 5 :String[32]: 44-6F-63-75-6D-65-6E-74-55-72-6C (In ASCII: DocumentUrl)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[8]: 55-72-6C (In ASCII: Url)
+String[0]:  (In ASCII: )
+String[32]: 2F-66-6F-6F-62-61-72-2E-66-62-78 (In ASCII: /foobar.fbx)
+ Size of Nested Records - 0< >
+P: EndOffset - 945 | Size of Properties - 60 | Num of Properties - 5 :String[41]: 53-72-63-44-6F-63-75-6D-65-6E-74-55-72-6C (In ASCII: SrcDocumentUrl)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[8]: 55-72-6C (In ASCII: Url)
+String[0]:  (In ASCII: )
+String[32]: 2F-66-6F-6F-62-61-72-2E-66-62-78 (In ASCII: /foobar.fbx)
+ Size of Nested Records - 0< >
+P: EndOffset - 995 | Size of Properties - 36 | Num of Properties - 4 :String[23]: 4F-72-69-67-69-6E-61-6C (In ASCII: Original)
+String[23]: 43-6F-6D-70-6F-75-6E-64 (In ASCII: Compound)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 1085 | Size of Properties - 76 | Num of Properties - 5 :String[77]: 4F-72-69-67-69-6E-61-6C-7C-41-70-70-6C-69-63-61-74-69-6F-6E-56-65-6E-64-6F-72 (In ASCII: Original|ApplicationVendor)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[53]: 42-6C-65-6E-64-65-72-20-46-6F-75-6E-64-61-74-69-6F-6E (In ASCII: Blender Foundation)
+ Size of Nested Records - 0< >
+P: EndOffset - 1178 | Size of Properties - 79 | Num of Properties - 5 :String[71]: 4F-72-69-67-69-6E-61-6C-7C-41-70-70-6C-69-63-61-74-69-6F-6E-4E-61-6D-65 (In ASCII: Original|ApplicationName)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[68]: 42-6C-65-6E-64-65-72-20-28-73-74-61-62-6C-65-20-46-42-58-20-49-4F-29 (In ASCII: Blender (stable FBX IO))
+ Size of Nested Records - 0< >
+P: EndOffset - 1257 | Size of Properties - 65 | Num of Properties - 5 :String[80]: 4F-72-69-67-69-6E-61-6C-7C-41-70-70-6C-69-63-61-74-69-6F-6E-56-65-72-73-69-6F-6E (In ASCII: Original|ApplicationVersion)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[17]: 32-2E-39-32-2E-30 (In ASCII: 2.92.0)
+ Size of Nested Records - 0< >
+P: EndOffset - 1348 | Size of Properties - 77 | Num of Properties - 5 :String[62]: 4F-72-69-67-69-6E-61-6C-7C-44-61-74-65-54-69-6D-65-5F-47-4D-54 (In ASCII: Original|DateTime_GMT)
+String[23]: 44-61-74-65-54-69-6D-65 (In ASCII: DateTime)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[68]: 30-31-2F-30-31-2F-31-39-37-30-20-30-30-3A-30-30-3A-30-30-2E-30-30-30 (In ASCII: 01/01/1970 00:00:00.000)
+ Size of Nested Records - 0< >
+P: EndOffset - 1422 | Size of Properties - 60 | Num of Properties - 5 :String[50]: 4F-72-69-67-69-6E-61-6C-7C-46-69-6C-65-4E-61-6D-65 (In ASCII: Original|FileName)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[32]: 2F-66-6F-6F-62-61-72-2E-66-62-78 (In ASCII: /foobar.fbx)
+ Size of Nested Records - 0< >
+P: EndOffset - 1473 | Size of Properties - 37 | Num of Properties - 4 :String[26]: 4C-61-73-74-53-61-76-65-64 (In ASCII: LastSaved)
+String[23]: 43-6F-6D-70-6F-75-6E-64 (In ASCII: Compound)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 1564 | Size of Properties - 77 | Num of Properties - 5 :String[80]: 4C-61-73-74-53-61-76-65-64-7C-41-70-70-6C-69-63-61-74-69-6F-6E-56-65-6E-64-6F-72 (In ASCII: LastSaved|ApplicationVendor)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[53]: 42-6C-65-6E-64-65-72-20-46-6F-75-6E-64-61-74-69-6F-6E (In ASCII: Blender Foundation)
+ Size of Nested Records - 0< >
+P: EndOffset - 1658 | Size of Properties - 80 | Num of Properties - 5 :String[74]: 4C-61-73-74-53-61-76-65-64-7C-41-70-70-6C-69-63-61-74-69-6F-6E-4E-61-6D-65 (In ASCII: LastSaved|ApplicationName)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[68]: 42-6C-65-6E-64-65-72-20-28-73-74-61-62-6C-65-20-46-42-58-20-49-4F-29 (In ASCII: Blender (stable FBX IO))
+ Size of Nested Records - 0< >
+P: EndOffset - 1738 | Size of Properties - 66 | Num of Properties - 5 :String[83]: 4C-61-73-74-53-61-76-65-64-7C-41-70-70-6C-69-63-61-74-69-6F-6E-56-65-72-73-69-6F-6E (In ASCII: LastSaved|ApplicationVersion)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[17]: 32-2E-39-32-2E-30 (In ASCII: 2.92.0)
+ Size of Nested Records - 0< >
+P: EndOffset - 1830 | Size of Properties - 78 | Num of Properties - 5 :String[65]: 4C-61-73-74-53-61-76-65-64-7C-44-61-74-65-54-69-6D-65-5F-47-4D-54 (In ASCII: LastSaved|DateTime_GMT)
+String[23]: 44-61-74-65-54-69-6D-65 (In ASCII: DateTime)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[68]: 30-31-2F-30-31-2F-31-39-37-30-20-30-30-3A-30-30-3A-30-30-2E-30-30-30 (In ASCII: 01/01/1970 00:00:00.000)
+ Size of Nested Records - 0< >
+>
+>
+>
+
+FileId: EndOffset - 1909 | Size of Properties - 21 | Num of Properties - 1 :Raw Bytes[16]: 401794223518236204194191 2001764216943252241
+ Size of Nested Records - 0< >
+
+CreationTime: EndOffset - 1962 | Size of Properties - 28 | Num of Properties - 1 :String[68]: 31-39-37-30-2D-30-31-2D-30-31-20-31-30-3A-30-30-3A-30-30-3A-30-30-30 (In ASCII: 1970-01-01 10:00:00:000)
+ Size of Nested Records - 0< >
+
+Creator: EndOffset - 2028 | Size of Properties - 46 | Num of Properties - 1 :String[122]: 42-6C-65-6E-64-65-72-20-28-73-74-61-62-6C-65-20-46-42-58-20-49-4F-29-20-2D-20-32-2E-39-32-2E-30-20-2D-20-34-2E-32-32-2E-30 (In ASCII: Blender (stable FBX IO) - 2.92.0 - 4.22.0)
+ Size of Nested Records - 0< >
+
+GlobalSettings: EndOffset - 3178 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Version: EndOffset - 2080 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1000
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 3165 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 16< P: EndOffset - 2160 | Size of Properties - 41 | Num of Properties - 5 :String[17]: 55-70-41-78-69-73 (In ASCII: UpAxis)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2219 | Size of Properties - 45 | Num of Properties - 5 :String[29]: 55-70-41-78-69-73-53-69-67-6E (In ASCII: UpAxisSign)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2277 | Size of Properties - 44 | Num of Properties - 5 :String[26]: 46-72-6F-6E-74-41-78-69-73 (In ASCII: FrontAxis)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 2
+ Size of Nested Records - 0< >
+P: EndOffset - 2339 | Size of Properties - 48 | Num of Properties - 5 :String[38]: 46-72-6F-6E-74-41-78-69-73-53-69-67-6E (In ASCII: FrontAxisSign)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2397 | Size of Properties - 44 | Num of Properties - 5 :String[26]: 43-6F-6F-72-64-41-78-69-73 (In ASCII: CoordAxis)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 2459 | Size of Properties - 48 | Num of Properties - 5 :String[38]: 43-6F-6F-72-64-41-78-69-73-53-69-67-6E (In ASCII: CoordAxisSign)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2522 | Size of Properties - 49 | Num of Properties - 5 :String[41]: 4F-72-69-67-69-6E-61-6C-55-70-41-78-69-73 (In ASCII: OriginalUpAxis)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: -1
+ Size of Nested Records - 0< >
+P: EndOffset - 2589 | Size of Properties - 53 | Num of Properties - 5 :String[53]: 4F-72-69-67-69-6E-61-6C-55-70-41-78-69-73-53-69-67-6E (In ASCII: OriginalUpAxisSign)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2659 | Size of Properties - 56 | Num of Properties - 5 :String[44]: 55-6E-69-74-53-63-61-6C-65-46-61-63-74-6F-72 (In ASCII: UnitScaleFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2737 | Size of Properties - 64 | Num of Properties - 5 :String[68]: 4F-72-69-67-69-6E-61-6C-55-6E-69-74-53-63-61-6C-65-46-61-63-74-6F-72 (In ASCII: OriginalUnitScaleFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 2823 | Size of Properties - 72 | Num of Properties - 7 :String[35]: 41-6D-62-69-65-6E-74-43-6F-6C-6F-72 (In ASCII: AmbientColor)
+String[23]: 43-6F-6C-6F-72-52-47-42 (In ASCII: ColorRGB)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 2902 | Size of Properties - 65 | Num of Properties - 5 :String[38]: 44-65-66-61-75-6C-74-43-61-6D-65-72-61 (In ASCII: DefaultCamera)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[59]: 50-72-6F-64-75-63-65-72-20-50-65-72-73-70-65-63-74-69-76-65 (In ASCII: Producer Perspective)
+ Size of Nested Records - 0< >
+P: EndOffset - 2953 | Size of Properties - 37 | Num of Properties - 5 :String[23]: 54-69-6D-65-4D-6F-64-65 (In ASCII: TimeMode)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 11
+ Size of Nested Records - 0< >
+P: EndOffset - 3018 | Size of Properties - 51 | Num of Properties - 5 :String[38]: 54-69-6D-65-53-70-61-6E-53-74-61-72-74 (In ASCII: TimeSpanStart)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 3082 | Size of Properties - 50 | Num of Properties - 5 :String[35]: 54-69-6D-65-53-70-61-6E-53-74-6F-70 (In ASCII: TimeSpanStop)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 46186158000
+ Size of Nested Records - 0< >
+P: EndOffset - 3152 | Size of Properties - 56 | Num of Properties - 5 :String[44]: 43-75-73-74-6F-6D-46-72-61-6D-65-52-61-74-65 (In ASCII: CustomFrameRate)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 24
+ Size of Nested Records - 0< >
+>
+>
+
+Documents: EndOffset - 3484 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Count: EndOffset - 3223 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+Document: EndOffset - 3471 | Size of Properties - 29 | Num of Properties - 3 :Int64: 876703715
+String[14]: 53-63-65-6E-65 (In ASCII: Scene)
+String[14]: 53-63-65-6E-65 (In ASCII: Scene)
+ Size of Nested Records - 2< Properties70: EndOffset - 3428 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< P: EndOffset - 3350 | Size of Properties - 38 | Num of Properties - 4 :String[35]: 53-6F-75-72-63-65-4F-62-6A-65-63-74 (In ASCII: SourceObject)
+String[17]: 6F-62-6A-65-63-74 (In ASCII: object)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 3415 | Size of Properties - 51 | Num of Properties - 5 :String[56]: 41-63-74-69-76-65-41-6E-69-6D-53-74-61-63-6B-4E-61-6D-65 (In ASCII: ActiveAnimStackName)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+>
+RootNode: EndOffset - 3458 | Size of Properties - 9 | Num of Properties - 1 :Int64: 0
+ Size of Nested Records - 0< >
+>
+>
+
+References: EndOffset - 3520 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 1< : EndOffset - 0 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 0< >
+>
+
+Definitions: EndOffset - 12910 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 13< Version: EndOffset - 3569 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+Count: EndOffset - 3592 | Size of Properties - 5 | Num of Properties - 1 :Int32: 37
+ Size of Nested Records - 0< >
+ObjectType: EndOffset - 3670 | Size of Properties - 19 | Num of Properties - 1 :String[41]: 47-6C-6F-62-61-6C-53-65-74-74-69-6E-67-73 (In ASCII: GlobalSettings)
+ Size of Nested Records - 1< Count: EndOffset - 3657 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+>
+ObjectType: EndOffset - 3747 | Size of Properties - 18 | Num of Properties - 1 :String[38]: 4E-6F-64-65-41-74-74-72-69-62-75-74-65 (In ASCII: NodeAttribute)
+ Size of Nested Records - 1< Count: EndOffset - 3734 | Size of Properties - 5 | Num of Properties - 1 :Int32: 2
+ Size of Nested Records - 0< >
+>
+ObjectType: EndOffset - 4329 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 47-65-6F-6D-65-74-72-79 (In ASCII: Geometry)
+ Size of Nested Records - 2< Count: EndOffset - 3806 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 4316 | Size of Properties - 12 | Num of Properties - 1 :String[20]: 46-62-78-4D-65-73-68 (In ASCII: FbxMesh)
+ Size of Nested Records - 1< Properties70: EndOffset - 4303 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 6< P: EndOffset - 3951 | Size of Properties - 65 | Num of Properties - 7 :String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[23]: 43-6F-6C-6F-72-52-47-42 (In ASCII: ColorRGB)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+Double: 0,8
+Double: 0,8
+Double: 0,8
+ Size of Nested Records - 0< >
+P: EndOffset - 4033 | Size of Properties - 68 | Num of Properties - 7 :String[20]: 42-42-6F-78-4D-69-6E (In ASCII: BBoxMin)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4115 | Size of Properties - 68 | Num of Properties - 7 :String[20]: 42-42-6F-78-4D-61-78 (In ASCII: BBoxMax)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4176 | Size of Properties - 47 | Num of Properties - 5 :String[53]: 50-72-69-6D-61-72-79-20-56-69-73-69-62-69-6C-69-74-79 (In ASCII: Primary Visibility)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 4232 | Size of Properties - 42 | Num of Properties - 5 :String[38]: 43-61-73-74-73-20-53-68-61-64-6F-77-73 (In ASCII: Casts Shadows)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 4290 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 52-65-63-65-69-76-65-20-53-68-61-64-6F-77-73 (In ASCII: Receive Shadows)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 9356 | Size of Properties - 10 | Num of Properties - 1 :String[14]: 4D-6F-64-65-6C (In ASCII: Model)
+ Size of Nested Records - 2< Count: EndOffset - 4385 | Size of Properties - 5 | Num of Properties - 1 :Int32: 3
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 9343 | Size of Properties - 12 | Num of Properties - 1 :String[20]: 46-62-78-4E-6F-64-65 (In ASCII: FbxNode)
+ Size of Nested Records - 1< Properties70: EndOffset - 9330 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 71< P: EndOffset - 4515 | Size of Properties - 50 | Num of Properties - 5 :String[62]: 51-75-61-74-65-72-6E-69-6F-6E-49-6E-74-65-72-70-6F-6C-61-74-65 (In ASCII: QuaternionInterpolate)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4604 | Size of Properties - 75 | Num of Properties - 7 :String[41]: 52-6F-74-61-74-69-6F-6E-4F-66-66-73-65-74 (In ASCII: RotationOffset)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4692 | Size of Properties - 74 | Num of Properties - 7 :String[38]: 52-6F-74-61-74-69-6F-6E-50-69-76-6F-74 (In ASCII: RotationPivot)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4780 | Size of Properties - 74 | Num of Properties - 7 :String[38]: 53-63-61-6C-69-6E-67-4F-66-66-73-65-74 (In ASCII: ScalingOffset)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4867 | Size of Properties - 73 | Num of Properties - 7 :String[35]: 53-63-61-6C-69-6E-67-50-69-76-6F-74 (In ASCII: ScalingPivot)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 4927 | Size of Properties - 46 | Num of Properties - 5 :String[50]: 54-72-61-6E-73-6C-61-74-69-6F-6E-41-63-74-69-76-65 (In ASCII: TranslationActive)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5016 | Size of Properties - 75 | Num of Properties - 7 :String[41]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-69-6E (In ASCII: TranslationMin)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5105 | Size of Properties - 75 | Num of Properties - 7 :String[41]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-61-78 (In ASCII: TranslationMax)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5163 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-69-6E-58 (In ASCII: TranslationMinX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5221 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-69-6E-59 (In ASCII: TranslationMinY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5279 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-69-6E-5A (In ASCII: TranslationMinZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5337 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-61-78-58 (In ASCII: TranslationMaxX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5395 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-61-78-59 (In ASCII: TranslationMaxY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5453 | Size of Properties - 44 | Num of Properties - 5 :String[44]: 54-72-61-6E-73-6C-61-74-69-6F-6E-4D-61-78-5A (In ASCII: TranslationMaxZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5509 | Size of Properties - 42 | Num of Properties - 5 :String[38]: 52-6F-74-61-74-69-6F-6E-4F-72-64-65-72 (In ASCII: RotationOrder)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5577 | Size of Properties - 54 | Num of Properties - 5 :String[74]: 52-6F-74-61-74-69-6F-6E-53-70-61-63-65-46-6F-72-4C-69-6D-69-74-4F-6E-6C-79 (In ASCII: RotationSpaceForLimitOnly)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5650 | Size of Properties - 59 | Num of Properties - 5 :String[53]: 52-6F-74-61-74-69-6F-6E-53-74-69-66-66-6E-65-73-73-58 (In ASCII: RotationStiffnessX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5723 | Size of Properties - 59 | Num of Properties - 5 :String[53]: 52-6F-74-61-74-69-6F-6E-53-74-69-66-66-6E-65-73-73-59 (In ASCII: RotationStiffnessY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5796 | Size of Properties - 59 | Num of Properties - 5 :String[53]: 52-6F-74-61-74-69-6F-6E-53-74-69-66-66-6E-65-73-73-5A (In ASCII: RotationStiffnessZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 5858 | Size of Properties - 48 | Num of Properties - 5 :String[20]: 41-78-69-73-4C-65-6E (In ASCII: AxisLen)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 10
+ Size of Nested Records - 0< >
+P: EndOffset - 5944 | Size of Properties - 72 | Num of Properties - 7 :String[32]: 50-72-65-52-6F-74-61-74-69-6F-6E (In ASCII: PreRotation)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6031 | Size of Properties - 73 | Num of Properties - 7 :String[35]: 50-6F-73-74-52-6F-74-61-74-69-6F-6E (In ASCII: PostRotation)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6088 | Size of Properties - 43 | Num of Properties - 5 :String[41]: 52-6F-74-61-74-69-6F-6E-41-63-74-69-76-65 (In ASCII: RotationActive)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6174 | Size of Properties - 72 | Num of Properties - 7 :String[32]: 52-6F-74-61-74-69-6F-6E-4D-69-6E (In ASCII: RotationMin)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6260 | Size of Properties - 72 | Num of Properties - 7 :String[32]: 52-6F-74-61-74-69-6F-6E-4D-61-78 (In ASCII: RotationMax)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6315 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-69-6E-58 (In ASCII: RotationMinX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6370 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-69-6E-59 (In ASCII: RotationMinY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6425 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-69-6E-5A (In ASCII: RotationMinZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6480 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-61-78-58 (In ASCII: RotationMaxX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6535 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-61-78-59 (In ASCII: RotationMaxY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6590 | Size of Properties - 41 | Num of Properties - 5 :String[35]: 52-6F-74-61-74-69-6F-6E-4D-61-78-5A (In ASCII: RotationMaxZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6644 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 49-6E-68-65-72-69-74-54-79-70-65 (In ASCII: InheritType)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6700 | Size of Properties - 42 | Num of Properties - 5 :String[38]: 53-63-61-6C-69-6E-67-41-63-74-69-76-65 (In ASCII: ScalingActive)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6785 | Size of Properties - 71 | Num of Properties - 7 :String[29]: 53-63-61-6C-69-6E-67-4D-69-6E (In ASCII: ScalingMin)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6870 | Size of Properties - 71 | Num of Properties - 7 :String[29]: 53-63-61-6C-69-6E-67-4D-61-78 (In ASCII: ScalingMax)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 1
+Double: 1
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 6924 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-69-6E-58 (In ASCII: ScalingMinX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 6978 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-69-6E-59 (In ASCII: ScalingMinY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7032 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-69-6E-5A (In ASCII: ScalingMinZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7086 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-61-78-58 (In ASCII: ScalingMaxX)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7140 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-61-78-59 (In ASCII: ScalingMaxY)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7194 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 53-63-61-6C-69-6E-67-4D-61-78-5A (In ASCII: ScalingMaxZ)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7289 | Size of Properties - 81 | Num of Properties - 7 :String[59]: 47-65-6F-6D-65-74-72-69-63-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: GeometricTranslation)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7381 | Size of Properties - 78 | Num of Properties - 7 :String[50]: 47-65-6F-6D-65-74-72-69-63-52-6F-74-61-74-69-6F-6E (In ASCII: GeometricRotation)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7472 | Size of Properties - 77 | Num of Properties - 7 :String[47]: 47-65-6F-6D-65-74-72-69-63-53-63-61-6C-69-6E-67 (In ASCII: GeometricScaling)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 1
+Double: 1
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 7540 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-69-6E-44-61-6D-70-52-61-6E-67-65-58 (In ASCII: MinDampRangeX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7608 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-69-6E-44-61-6D-70-52-61-6E-67-65-59 (In ASCII: MinDampRangeY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7676 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-69-6E-44-61-6D-70-52-61-6E-67-65-5A (In ASCII: MinDampRangeZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7744 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-61-78-44-61-6D-70-52-61-6E-67-65-58 (In ASCII: MaxDampRangeX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7812 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-61-78-44-61-6D-70-52-61-6E-67-65-59 (In ASCII: MaxDampRangeY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7880 | Size of Properties - 54 | Num of Properties - 5 :String[38]: 4D-61-78-44-61-6D-70-52-61-6E-67-65-5A (In ASCII: MaxDampRangeZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 7951 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-69-6E-44-61-6D-70-53-74-72-65-6E-67-74-68-58 (In ASCII: MinDampStrengthX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8022 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-69-6E-44-61-6D-70-53-74-72-65-6E-67-74-68-59 (In ASCII: MinDampStrengthY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8093 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-69-6E-44-61-6D-70-53-74-72-65-6E-67-74-68-5A (In ASCII: MinDampStrengthZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8164 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-61-78-44-61-6D-70-53-74-72-65-6E-67-74-68-58 (In ASCII: MaxDampStrengthX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8235 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-61-78-44-61-6D-70-53-74-72-65-6E-67-74-68-59 (In ASCII: MaxDampStrengthY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8306 | Size of Properties - 57 | Num of Properties - 5 :String[47]: 4D-61-78-44-61-6D-70-53-74-72-65-6E-67-74-68-5A (In ASCII: MaxDampStrengthZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8375 | Size of Properties - 55 | Num of Properties - 5 :String[41]: 50-72-65-66-65-72-65-64-41-6E-67-6C-65-58 (In ASCII: PreferedAngleX)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8444 | Size of Properties - 55 | Num of Properties - 5 :String[41]: 50-72-65-66-65-72-65-64-41-6E-67-6C-65-59 (In ASCII: PreferedAngleY)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8513 | Size of Properties - 55 | Num of Properties - 5 :String[41]: 50-72-65-66-65-72-65-64-41-6E-67-6C-65-5A (In ASCII: PreferedAngleZ)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8567 | Size of Properties - 40 | Num of Properties - 4 :String[41]: 4C-6F-6F-6B-41-74-50-72-6F-70-65-72-74-79 (In ASCII: LookAtProperty)
+String[17]: 6F-62-6A-65-63-74 (In ASCII: object)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 8623 | Size of Properties - 42 | Num of Properties - 4 :String[47]: 55-70-56-65-63-74-6F-72-50-72-6F-70-65-72-74-79 (In ASCII: UpVectorProperty)
+String[17]: 6F-62-6A-65-63-74 (In ASCII: object)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 8670 | Size of Properties - 33 | Num of Properties - 5 :String[11]: 53-68-6F-77 (In ASCII: Show)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 8740 | Size of Properties - 56 | Num of Properties - 5 :String[80]: 4E-65-67-61-74-69-76-65-50-65-72-63-65-6E-74-53-68-61-70-65-53-75-70-70-6F-72-74 (In ASCII: NegativePercentShapeSupport)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 8810 | Size of Properties - 56 | Num of Properties - 5 :String[62]: 44-65-66-61-75-6C-74-41-74-74-72-69-62-75-74-65-49-6E-64-65-78 (In ASCII: DefaultAttributeIndex)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: -1
+ Size of Nested Records - 0< >
+P: EndOffset - 8859 | Size of Properties - 35 | Num of Properties - 5 :String[17]: 46-72-65-65-7A-65 (In ASCII: Freeze)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 8908 | Size of Properties - 35 | Num of Properties - 5 :String[17]: 4C-4F-44-42-6F-78 (In ASCII: LODBox)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 9000 | Size of Properties - 78 | Num of Properties - 7 :String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 9086 | Size of Properties - 72 | Num of Properties - 7 :String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 9170 | Size of Properties - 70 | Num of Properties - 7 :String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+Double: 1
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 9234 | Size of Properties - 50 | Num of Properties - 5 :String[29]: 56-69-73-69-62-69-6C-69-74-79 (In ASCII: Visibility)
+String[29]: 56-69-73-69-62-69-6C-69-74-79 (In ASCII: Visibility)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 9317 | Size of Properties - 69 | Num of Properties - 5 :String[65]: 56-69-73-69-62-69-6C-69-74-79-20-49-6E-68-65-72-69-74-61-6E-63-65 (In ASCII: Visibility Inheritance)
+String[65]: 56-69-73-69-62-69-6C-69-74-79-20-49-6E-68-65-72-69-74-61-6E-63-65 (In ASCII: Visibility Inheritance)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 9424 | Size of Properties - 9 | Num of Properties - 1 :String[11]: 50-6F-73-65 (In ASCII: Pose)
+ Size of Nested Records - 1< Count: EndOffset - 9411 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+>
+ObjectType: EndOffset - 9496 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 44-65-66-6F-72-6D-65-72 (In ASCII: Deformer)
+ Size of Nested Records - 1< Count: EndOffset - 9483 | Size of Properties - 5 | Num of Properties - 1 :Int32: 2
+ Size of Nested Records - 0< >
+>
+ObjectType: EndOffset - 11406 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 4D-61-74-65-72-69-61-6C (In ASCII: Material)
+ Size of Nested Records - 2< Count: EndOffset - 9555 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 11393 | Size of Properties - 20 | Num of Properties - 1 :String[44]: 46-62-78-53-75-72-66-61-63-65-50-68-6F-6E-67 (In ASCII: FbxSurfacePhong)
+ Size of Nested Records - 1< Properties70: EndOffset - 11380 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 24< P: EndOffset - 9692 | Size of Properties - 49 | Num of Properties - 5 :String[35]: 53-68-61-64-69-6E-67-4D-6F-64-65-6C (In ASCII: ShadingModel)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[14]: 50-68-6F-6E-67 (In ASCII: Phong)
+ Size of Nested Records - 0< >
+P: EndOffset - 9745 | Size of Properties - 39 | Num of Properties - 5 :String[29]: 4D-75-6C-74-69-4C-61-79-65-72 (In ASCII: MultiLayer)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 9825 | Size of Properties - 66 | Num of Properties - 7 :String[38]: 45-6D-69-73-73-69-76-65-43-6F-6C-6F-72 (In ASCII: EmissiveColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 9889 | Size of Properties - 50 | Num of Properties - 5 :String[41]: 45-6D-69-73-73-69-76-65-46-61-63-74-6F-72 (In ASCII: EmissiveFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 9968 | Size of Properties - 65 | Num of Properties - 7 :String[35]: 41-6D-62-69-65-6E-74-43-6F-6C-6F-72 (In ASCII: AmbientColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,2
+Double: 0,2
+Double: 0,2
+ Size of Nested Records - 0< >
+P: EndOffset - 10031 | Size of Properties - 49 | Num of Properties - 5 :String[38]: 41-6D-62-69-65-6E-74-46-61-63-74-6F-72 (In ASCII: AmbientFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 10110 | Size of Properties - 65 | Num of Properties - 7 :String[35]: 44-69-66-66-75-73-65-43-6F-6C-6F-72 (In ASCII: DiffuseColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,8
+Double: 0,8
+Double: 0,8
+ Size of Nested Records - 0< >
+P: EndOffset - 10173 | Size of Properties - 49 | Num of Properties - 5 :String[38]: 44-69-66-66-75-73-65-46-61-63-74-6F-72 (In ASCII: DiffuseFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 10256 | Size of Properties - 69 | Num of Properties - 7 :String[47]: 54-72-61-6E-73-70-61-72-65-6E-74-43-6F-6C-6F-72 (In ASCII: TransparentColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10324 | Size of Properties - 54 | Num of Properties - 5 :String[53]: 54-72-61-6E-73-70-61-72-65-6E-63-79-46-61-63-74-6F-72 (In ASCII: TransparencyFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10381 | Size of Properties - 43 | Num of Properties - 5 :String[20]: 4F-70-61-63-69-74-79 (In ASCII: Opacity)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 10465 | Size of Properties - 70 | Num of Properties - 7 :String[26]: 4E-6F-72-6D-61-6C-4D-61-70 (In ASCII: NormalMap)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10544 | Size of Properties - 65 | Num of Properties - 7 :String[11]: 42-75-6D-70 (In ASCII: Bump)
+String[23]: 56-65-63-74-6F-72-33-44 (In ASCII: Vector3D)
+String[17]: 56-65-63-74-6F-72 (In ASCII: Vector)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10609 | Size of Properties - 51 | Num of Properties - 5 :String[29]: 42-75-6D-70-46-61-63-74-6F-72 (In ASCII: BumpFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 10700 | Size of Properties - 77 | Num of Properties - 7 :String[50]: 44-69-73-70-6C-61-63-65-6D-65-6E-74-43-6F-6C-6F-72 (In ASCII: DisplacementColor)
+String[23]: 43-6F-6C-6F-72-52-47-42 (In ASCII: ColorRGB)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10773 | Size of Properties - 59 | Num of Properties - 5 :String[53]: 44-69-73-70-6C-61-63-65-6D-65-6E-74-46-61-63-74-6F-72 (In ASCII: DisplacementFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 10870 | Size of Properties - 83 | Num of Properties - 7 :String[68]: 56-65-63-74-6F-72-44-69-73-70-6C-61-63-65-6D-65-6E-74-43-6F-6C-6F-72 (In ASCII: VectorDisplacementColor)
+String[23]: 43-6F-6C-6F-72-52-47-42 (In ASCII: ColorRGB)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 10949 | Size of Properties - 65 | Num of Properties - 5 :String[71]: 56-65-63-74-6F-72-44-69-73-70-6C-61-63-65-6D-65-6E-74-46-61-63-74-6F-72 (In ASCII: VectorDisplacementFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 11029 | Size of Properties - 66 | Num of Properties - 7 :String[38]: 53-70-65-63-75-6C-61-72-43-6F-6C-6F-72 (In ASCII: SpecularColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,2
+Double: 0,2
+Double: 0,2
+ Size of Nested Records - 0< >
+P: EndOffset - 11093 | Size of Properties - 50 | Num of Properties - 5 :String[41]: 53-70-65-63-75-6C-61-72-46-61-63-74-6F-72 (In ASCII: SpecularFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 11152 | Size of Properties - 45 | Num of Properties - 5 :String[26]: 53-68-69-6E-69-6E-65-73-73 (In ASCII: Shininess)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 20
+ Size of Nested Records - 0< >
+P: EndOffset - 11219 | Size of Properties - 53 | Num of Properties - 5 :String[50]: 53-68-69-6E-69-6E-65-73-73-45-78-70-6F-6E-65-6E-74 (In ASCII: ShininessExponent)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 20
+ Size of Nested Records - 0< >
+P: EndOffset - 11301 | Size of Properties - 68 | Num of Properties - 7 :String[44]: 52-65-66-6C-65-63-74-69-6F-6E-43-6F-6C-6F-72 (In ASCII: ReflectionColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 11367 | Size of Properties - 52 | Num of Properties - 5 :String[47]: 52-65-66-6C-65-63-74-69-6F-6E-46-61-63-74-6F-72 (In ASCII: ReflectionFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 11892 | Size of Properties - 19 | Num of Properties - 1 :String[41]: 41-6E-69-6D-61-74-69-6F-6E-53-74-61-63-6B (In ASCII: AnimationStack)
+ Size of Nested Records - 2< Count: EndOffset - 11471 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 11879 | Size of Properties - 17 | Num of Properties - 1 :String[35]: 46-62-78-41-6E-69-6D-53-74-61-63-6B (In ASCII: FbxAnimStack)
+ Size of Nested Records - 1< Properties70: EndOffset - 11866 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 5< P: EndOffset - 11599 | Size of Properties - 43 | Num of Properties - 5 :String[32]: 44-65-73-63-72-69-70-74-69-6F-6E (In ASCII: Description)
+String[20]: 4B-53-74-72-69-6E-67 (In ASCII: KString)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+P: EndOffset - 11661 | Size of Properties - 48 | Num of Properties - 5 :String[29]: 4C-6F-63-61-6C-53-74-61-72-74 (In ASCII: LocalStart)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 11722 | Size of Properties - 47 | Num of Properties - 5 :String[26]: 4C-6F-63-61-6C-53-74-6F-70 (In ASCII: LocalStop)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 11788 | Size of Properties - 52 | Num of Properties - 5 :String[41]: 52-65-66-65-72-65-6E-63-65-53-74-61-72-74 (In ASCII: ReferenceStart)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 11853 | Size of Properties - 51 | Num of Properties - 5 :String[38]: 52-65-66-65-72-65-6E-63-65-53-74-6F-70 (In ASCII: ReferenceStop)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 12593 | Size of Properties - 19 | Num of Properties - 1 :String[41]: 41-6E-69-6D-61-74-69-6F-6E-4C-61-79-65-72 (In ASCII: AnimationLayer)
+ Size of Nested Records - 2< Count: EndOffset - 11957 | Size of Properties - 5 | Num of Properties - 1 :Int32: 1
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 12580 | Size of Properties - 17 | Num of Properties - 1 :String[35]: 46-62-78-41-6E-69-6D-4C-61-79-65-72 (In ASCII: FbxAnimLayer)
+ Size of Nested Records - 1< Properties70: EndOffset - 12567 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 9< P: EndOffset - 12084 | Size of Properties - 42 | Num of Properties - 5 :String[17]: 57-65-69-67-68-74 (In ASCII: Weight)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 100
+ Size of Nested Records - 0< >
+P: EndOffset - 12131 | Size of Properties - 33 | Num of Properties - 5 :String[11]: 4D-75-74-65 (In ASCII: Mute)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12178 | Size of Properties - 33 | Num of Properties - 5 :String[11]: 53-6F-6C-6F (In ASCII: Solo)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12225 | Size of Properties - 33 | Num of Properties - 5 :String[11]: 4C-6F-63-6B (In ASCII: Lock)
+String[11]: 62-6F-6F-6C (In ASCII: bool)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12304 | Size of Properties - 65 | Num of Properties - 7 :String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[23]: 43-6F-6C-6F-72-52-47-42 (In ASCII: ColorRGB)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+Double: 0,8
+Double: 0,8
+Double: 0,8
+ Size of Nested Records - 0< >
+P: EndOffset - 12356 | Size of Properties - 38 | Num of Properties - 5 :String[26]: 42-6C-65-6E-64-4D-6F-64-65 (In ASCII: BlendMode)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12423 | Size of Properties - 53 | Num of Properties - 5 :String[71]: 52-6F-74-61-74-69-6F-6E-41-63-63-75-6D-75-6C-61-74-69-6F-6E-4D-6F-64-65 (In ASCII: RotationAccumulationMode)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12487 | Size of Properties - 50 | Num of Properties - 5 :String[62]: 53-63-61-6C-65-41-63-63-75-6D-75-6C-61-74-69-6F-6E-4D-6F-64-65 (In ASCII: ScaleAccumulationMode)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 12554 | Size of Properties - 53 | Num of Properties - 5 :String[44]: 42-6C-65-6E-64-4D-6F-64-65-42-79-70-61-73-73 (In ASCII: BlendModeBypass)
+String[26]: 55-4C-6F-6E-67-4C-6F-6E-67 (In ASCII: ULongLong)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int64: 0
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 12819 | Size of Properties - 23 | Num of Properties - 1 :String[53]: 41-6E-69-6D-61-74-69-6F-6E-43-75-72-76-65-4E-6F-64-65 (In ASCII: AnimationCurveNode)
+ Size of Nested Records - 2< Count: EndOffset - 12662 | Size of Properties - 5 | Num of Properties - 1 :Int32: 6
+ Size of Nested Records - 0< >
+PropertyTemplate: EndOffset - 12806 | Size of Properties - 21 | Num of Properties - 1 :String[47]: 46-62-78-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: FbxAnimCurveNode)
+ Size of Nested Records - 1< Properties70: EndOffset - 12793 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 1< P: EndOffset - 12780 | Size of Properties - 29 | Num of Properties - 4 :String[2]: 64 (In ASCII: d)
+String[23]: 43-6F-6D-70-6F-75-6E-64 (In ASCII: Compound)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+>
+>
+>
+ObjectType: EndOffset - 12897 | Size of Properties - 19 | Num of Properties - 1 :String[41]: 41-6E-69-6D-61-74-69-6F-6E-43-75-72-76-65 (In ASCII: AnimationCurve)
+ Size of Nested Records - 1< Count: EndOffset - 12884 | Size of Properties - 5 | Num of Properties - 1 :Int32: 18
+ Size of Nested Records - 0< >
+>
+>
+
+Objects: EndOffset - 29019 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 36< NodeAttribute: EndOffset - 13071 | Size of Properties - 46 | Num of Properties - 3 :Int64: 365304999
+String[68]: 41-72-6D-61-74-75-72-65-00-01-4E-6F-64-65-41-74-74-72-69-62-75-74-65 (In ASCII: Armature ☺NodeAttribute)
+String[11]: 4E-75-6C-6C (In ASCII: Null)
+ Size of Nested Records - 2< TypeFlags: EndOffset - 13033 | Size of Properties - 9 | Num of Properties - 1 :String[11]: 4E-75-6C-6C (In ASCII: Null)
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 13058 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 0< >
+>
+Geometry: EndOffset - 14843 | Size of Properties - 37 | Num of Properties - 3 :Int64: 527200724
+String[41]: 43-75-62-65-00-01-47-65-6F-6D-65-74-72-79 (In ASCII: Cube ☺Geometry)
+String[11]: 4D-65-73-68 (In ASCII: Mesh)
+ Size of Nested Records - 9< Properties70: EndOffset - 13167 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 1< : EndOffset - 0 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 0< >
+>
+GeometryVersion: EndOffset - 13200 | Size of Properties - 5 | Num of Properties - 1 :Int32: 124
+ Size of Nested Records - 0< >
+Vertices: EndOffset - 13275 | Size of Properties - 54 | Num of Properties - 1 :Double Array[24]: 1 , 1 , 1 , 1 , 1 , -1 , 1 , -1 , 1 , 1 , -1 , -1 , -1 , 1 , 1 , -1 , 1 , -1 , -1 , -1 , 1 , -1 , -1 , -1 ,
+ Size of Nested Records - 0< >
+PolygonVertexIndex: EndOffset - 13415 | Size of Properties - 109 | Num of Properties - 1 :Int32 Array[6]: 0 , 4 , 6 , -3 , 3 , 2 ,
+ Size of Nested Records - 0< >
+Edges: EndOffset - 13494 | Size of Properties - 61 | Num of Properties - 1 :Int32 Array[3]: 0 , 1 , 2 ,
+ Size of Nested Records - 0< >
+LayerElementNormal: EndOffset - 13779 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 5< Version: EndOffset - 13555 | Size of Properties - 5 | Num of Properties - 1 :Int32: 101
+ Size of Nested Records - 0< >
+Name: EndOffset - 13577 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+MappingInformationType: EndOffset - 13632 | Size of Properties - 20 | Num of Properties - 1 :String[44]: 42-79-50-6F-6C-79-67-6F-6E-56-65-72-74-65-78 (In ASCII: ByPolygonVertex)
+ Size of Nested Records - 0< >
+ReferenceInformationType: EndOffset - 13680 | Size of Properties - 11 | Num of Properties - 1 :String[17]: 44-69-72-65-63-74 (In ASCII: Direct)
+ Size of Nested Records - 0< >
+Normals: EndOffset - 13766 | Size of Properties - 66 | Num of Properties - 1 :Double Array[72]: 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 0 , 0 , -1 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 1 , 0 ,
+ Size of Nested Records - 0< >
+>
+LayerElementUV: EndOffset - 14214 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 6< Version: EndOffset - 13836 | Size of Properties - 5 | Num of Properties - 1 :Int32: 101
+ Size of Nested Records - 0< >
+Name: EndOffset - 13863 | Size of Properties - 10 | Num of Properties - 1 :String[14]: 55-56-4D-61-70 (In ASCII: UVMap)
+ Size of Nested Records - 0< >
+MappingInformationType: EndOffset - 13918 | Size of Properties - 20 | Num of Properties - 1 :String[44]: 42-79-50-6F-6C-79-67-6F-6E-56-65-72-74-65-78 (In ASCII: ByPolygonVertex)
+ Size of Nested Records - 0< >
+ReferenceInformationType: EndOffset - 13973 | Size of Properties - 18 | Num of Properties - 1 :String[38]: 49-6E-64-65-78-54-6F-44-69-72-65-63-74 (In ASCII: IndexToDirect)
+ Size of Nested Records - 0< >
+UV: EndOffset - 14072 | Size of Properties - 84 | Num of Properties - 1 :Double Array[28]: 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 1 , 0 , 1 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ,
+ Size of Nested Records - 0< >
+UVIndex: EndOffset - 14201 | Size of Properties - 109 | Num of Properties - 1 :Int32 Array[6]: 2 , 11 , 8 , 0 , 1 , 0 ,
+ Size of Nested Records - 0< >
+>
+LayerElementMaterial: EndOffset - 14453 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 5< Version: EndOffset - 14277 | Size of Properties - 5 | Num of Properties - 1 :Int32: 101
+ Size of Nested Records - 0< >
+Name: EndOffset - 14299 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+MappingInformationType: EndOffset - 14346 | Size of Properties - 12 | Num of Properties - 1 :String[20]: 41-6C-6C-53-61-6D-65 (In ASCII: AllSame)
+ Size of Nested Records - 0< >
+ReferenceInformationType: EndOffset - 14401 | Size of Properties - 18 | Num of Properties - 1 :String[38]: 49-6E-64-65-78-54-6F-44-69-72-65-63-74 (In ASCII: IndexToDirect)
+ Size of Nested Records - 0< >
+Materials: EndOffset - 14440 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+Layer: EndOffset - 14830 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 4< Version: EndOffset - 14501 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+LayerElement: EndOffset - 14607 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Type: EndOffset - 14566 | Size of Properties - 23 | Num of Properties - 1 :String[53]: 4C-61-79-65-72-45-6C-65-6D-65-6E-74-4E-6F-72-6D-61-6C (In ASCII: LayerElementNormal)
+ Size of Nested Records - 0< >
+TypedIndex: EndOffset - 14594 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+>
+LayerElement: EndOffset - 14709 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Type: EndOffset - 14668 | Size of Properties - 19 | Num of Properties - 1 :String[41]: 4C-61-79-65-72-45-6C-65-6D-65-6E-74-55-56 (In ASCII: LayerElementUV)
+ Size of Nested Records - 0< >
+TypedIndex: EndOffset - 14696 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+>
+LayerElement: EndOffset - 14817 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Type: EndOffset - 14776 | Size of Properties - 25 | Num of Properties - 1 :String[59]: 4C-61-79-65-72-45-6C-65-6D-65-6E-74-4D-61-74-65-72-69-61-6C (In ASCII: LayerElementMaterial)
+ Size of Nested Records - 0< >
+TypedIndex: EndOffset - 14804 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+>
+>
+>
+Model: EndOffset - 15377 | Size of Properties - 34 | Num of Properties - 3 :Int64: 650113076
+String[32]: 43-75-62-65-00-01-4D-6F-64-65-6C (In ASCII: Cube ☺Model)
+String[11]: 4D-65-73-68 (In ASCII: Mesh)
+ Size of Nested Records - 6< Version: EndOffset - 14920 | Size of Properties - 5 | Num of Properties - 1 :Int32: 232
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 15252 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 4< P: EndOffset - 15031 | Size of Properties - 72 | Num of Properties - 7 :String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: -90,0000093346673
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 15115 | Size of Properties - 70 | Num of Properties - 7 :String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 100
+Double: 100
+Double: 100
+ Size of Nested Records - 0< >
+P: EndOffset - 15185 | Size of Properties - 56 | Num of Properties - 5 :String[62]: 44-65-66-61-75-6C-74-41-74-74-72-69-62-75-74-65-49-6E-64-65-78 (In ASCII: DefaultAttributeIndex)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 15239 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 49-6E-68-65-72-69-74-54-79-70-65 (In ASCII: InheritType)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+>
+MultiLayer: EndOffset - 15280 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+MultiTake: EndOffset - 15307 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+Shading: EndOffset - 15329 | Size of Properties - 2 | Num of Properties - 1 :Bool: True
+ Size of Nested Records - 0< >
+Culling: EndOffset - 15364 | Size of Properties - 15 | Num of Properties - 1 :String[29]: 43-75-6C-6C-69-6E-67-4F-66-66 (In ASCII: CullingOff)
+ Size of Nested Records - 0< >
+>
+Model: EndOffset - 16010 | Size of Properties - 38 | Num of Properties - 3 :Int64: 53251575
+String[44]: 41-72-6D-61-74-75-72-65-00-01-4D-6F-64-65-6C (In ASCII: Armature ☺Model)
+String[11]: 4E-75-6C-6C (In ASCII: Null)
+ Size of Nested Records - 6< Version: EndOffset - 15458 | Size of Properties - 5 | Num of Properties - 1 :Int32: 232
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 15885 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 5< P: EndOffset - 15576 | Size of Properties - 79 | Num of Properties - 7 :String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 15663 | Size of Properties - 73 | Num of Properties - 7 :String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: -90,0000093346673
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 15748 | Size of Properties - 71 | Num of Properties - 7 :String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: 100
+Double: 100
+Double: 100
+ Size of Nested Records - 0< >
+P: EndOffset - 15818 | Size of Properties - 56 | Num of Properties - 5 :String[62]: 44-65-66-61-75-6C-74-41-74-74-72-69-62-75-74-65-49-6E-64-65-78 (In ASCII: DefaultAttributeIndex)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 15872 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 49-6E-68-65-72-69-74-54-79-70-65 (In ASCII: InheritType)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+>
+MultiLayer: EndOffset - 15913 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+MultiTake: EndOffset - 15940 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+Shading: EndOffset - 15962 | Size of Properties - 2 | Num of Properties - 1 :Bool: True
+ Size of Nested Records - 0< >
+Culling: EndOffset - 15997 | Size of Properties - 15 | Num of Properties - 1 :String[29]: 43-75-6C-6C-69-6E-67-4F-66-66 (In ASCII: CullingOff)
+ Size of Nested Records - 0< >
+>
+Model: EndOffset - 16643 | Size of Properties - 38 | Num of Properties - 3 :Int64: 134740199
+String[32]: 42-6F-6E-65-00-01-4D-6F-64-65-6C (In ASCII: Bone ☺Model)
+String[23]: 4C-69-6D-62-4E-6F-64-65 (In ASCII: LimbNode)
+ Size of Nested Records - 6< Version: EndOffset - 16091 | Size of Properties - 5 | Num of Properties - 1 :Int32: 232
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 16518 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 5< P: EndOffset - 16209 | Size of Properties - 79 | Num of Properties - 7 :String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: 0
+Double: 0
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 16296 | Size of Properties - 73 | Num of Properties - 7 :String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: 90,0000093346673
+Double: 0
+Double: 3,73386770842217E-05
+ Size of Nested Records - 0< >
+P: EndOffset - 16381 | Size of Properties - 71 | Num of Properties - 7 :String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+String[0]:  (In ASCII: )
+String[5]: 41-2B (In ASCII: A+)
+Double: 1
+Double: 1
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 16451 | Size of Properties - 56 | Num of Properties - 5 :String[62]: 44-65-66-61-75-6C-74-41-74-74-72-69-62-75-74-65-49-6E-64-65-78 (In ASCII: DefaultAttributeIndex)
+String[8]: 69-6E-74 (In ASCII: int)
+String[20]: 49-6E-74-65-67-65-72 (In ASCII: Integer)
+String[0]:  (In ASCII: )
+Int32: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 16505 | Size of Properties - 40 | Num of Properties - 5 :String[32]: 49-6E-68-65-72-69-74-54-79-70-65 (In ASCII: InheritType)
+String[11]: 65-6E-75-6D (In ASCII: enum)
+String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+Int32: 1
+ Size of Nested Records - 0< >
+>
+MultiLayer: EndOffset - 16546 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+MultiTake: EndOffset - 16573 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+Shading: EndOffset - 16595 | Size of Properties - 2 | Num of Properties - 1 :Bool: True
+ Size of Nested Records - 0< >
+Culling: EndOffset - 16630 | Size of Properties - 15 | Num of Properties - 1 :String[29]: 43-75-6C-6C-69-6E-67-4F-66-66 (In ASCII: CullingOff)
+ Size of Nested Records - 0< >
+>
+NodeAttribute: EndOffset - 16860 | Size of Properties - 46 | Num of Properties - 3 :Int64: 61276249
+String[56]: 42-6F-6E-65-00-01-4E-6F-64-65-41-74-74-72-69-62-75-74-65 (In ASCII: Bone ☺NodeAttribute)
+String[23]: 4C-69-6D-62-4E-6F-64-65 (In ASCII: LimbNode)
+ Size of Nested Records - 2< TypeFlags: EndOffset - 16750 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 53-6B-65-6C-65-74-6F-6E (In ASCII: Skeleton)
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 16847 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 1< P: EndOffset - 16834 | Size of Properties - 45 | Num of Properties - 5 :String[11]: 53-69-7A-65 (In ASCII: Size)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 3,30000004917383
+ Size of Nested Records - 0< >
+>
+>
+Pose: EndOffset - 17671 | Size of Properties - 37 | Num of Properties - 3 :Int64: 83094800
+String[29]: 43-75-62-65-00-01-50-6F-73-65 (In ASCII: Cube ☺Pose)
+String[23]: 42-69-6E-64-50-6F-73-65 (In ASCII: BindPose)
+ Size of Nested Records - 6< Type: EndOffset - 16944 | Size of Properties - 13 | Num of Properties - 1 :String[23]: 42-69-6E-64-50-6F-73-65 (In ASCII: BindPose)
+ Size of Nested Records - 0< >
+Version: EndOffset - 16969 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+NbPoseNodes: EndOffset - 16998 | Size of Properties - 5 | Num of Properties - 1 :Int32: 3
+ Size of Nested Records - 0< >
+PoseNode: EndOffset - 17218 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Node: EndOffset - 17045 | Size of Properties - 9 | Num of Properties - 1 :Int64: 650113076
+ Size of Nested Records - 0< >
+Matrix: EndOffset - 17205 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 100 , 0 ,
+ Size of Nested Records - 0< >
+>
+PoseNode: EndOffset - 17438 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Node: EndOffset - 17265 | Size of Properties - 9 | Num of Properties - 1 :Int64: 53251575
+ Size of Nested Records - 0< >
+Matrix: EndOffset - 17425 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 100 , 0 ,
+ Size of Nested Records - 0< >
+>
+PoseNode: EndOffset - 17658 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Node: EndOffset - 17485 | Size of Properties - 9 | Num of Properties - 1 :Int64: 134740199
+ Size of Nested Records - 0< >
+Matrix: EndOffset - 17645 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 100 , 0 ,
+ Size of Nested Records - 0< >
+>
+>
+Deformer: EndOffset - 17811 | Size of Properties - 41 | Num of Properties - 3 :Int64: 944178657
+String[53]: 41-72-6D-61-74-75-72-65-00-01-44-65-66-6F-72-6D-65-72 (In ASCII: Armature ☺Deformer)
+String[11]: 53-6B-69-6E (In ASCII: Skin)
+ Size of Nested Records - 2< Version: EndOffset - 17758 | Size of Properties - 5 | Num of Properties - 1 :Int32: 101
+ Size of Nested Records - 0< >
+Link_DeformAcuracy: EndOffset - 17798 | Size of Properties - 9 | Num of Properties - 1 :Double: 50
+ Size of Nested Records - 0< >
+>
+Deformer: EndOffset - 18613 | Size of Properties - 43 | Num of Properties - 3 :Int64: 417288958
+String[50]: 42-6F-6E-65-00-01-53-75-62-44-65-66-6F-72-6D-65-72 (In ASCII: Bone ☺SubDeformer)
+String[20]: 43-6C-75-73-74-65-72 (In ASCII: Cluster)
+ Size of Nested Records - 7< Version: EndOffset - 17900 | Size of Properties - 5 | Num of Properties - 1 :Int32: 100
+ Size of Nested Records - 0< >
+UserData: EndOffset - 17931 | Size of Properties - 10 | Num of Properties - 2 :String[0]:  (In ASCII: )
+String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Indexes: EndOffset - 17996 | Size of Properties - 45 | Num of Properties - 1 :Int32 Array[2]: 0 , 1 ,
+ Size of Nested Records - 0< >
+Weights: EndOffset - 18093 | Size of Properties - 77 | Num of Properties - 1 :Double Array[1]: 1 ,
+ Size of Nested Records - 0< >
+Transform: EndOffset - 18256 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 1 , 0 ,
+ Size of Nested Records - 0< >
+TransformLink: EndOffset - 18423 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 100 , 0 ,
+ Size of Nested Records - 0< >
+TransformAssociateModel: EndOffset - 18600 | Size of Properties - 141 | Num of Properties - 1 :Double Array[2]: 100 , 0 ,
+ Size of Nested Records - 0< >
+>
+Material: EndOffset - 19514 | Size of Properties - 37 | Num of Properties - 3 :Int64: 313738957
+String[53]: 4D-61-74-65-72-69-61-6C-00-01-4D-61-74-65-72-69-61-6C (In ASCII: Material ☺Material)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 4< Version: EndOffset - 18696 | Size of Properties - 5 | Num of Properties - 1 :Int32: 102
+ Size of Nested Records - 0< >
+ShadingModel: EndOffset - 18731 | Size of Properties - 10 | Num of Properties - 1 :String[14]: 50-68-6F-6E-67 (In ASCII: Phong)
+ Size of Nested Records - 0< >
+MultiLayer: EndOffset - 18759 | Size of Properties - 5 | Num of Properties - 1 :Int32: 0
+ Size of Nested Records - 0< >
+Properties70: EndOffset - 19501 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 10< P: EndOffset - 18863 | Size of Properties - 65 | Num of Properties - 7 :String[35]: 44-69-66-66-75-73-65-43-6F-6C-6F-72 (In ASCII: DiffuseColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,800000011920929
+Double: 0,800000011920929
+Double: 0,800000011920929
+ Size of Nested Records - 0< >
+P: EndOffset - 18942 | Size of Properties - 65 | Num of Properties - 7 :String[35]: 41-6D-62-69-65-6E-74-43-6F-6C-6F-72 (In ASCII: AmbientColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,0508760884404182
+Double: 0,0508760884404182
+Double: 0,0508760884404182
+ Size of Nested Records - 0< >
+P: EndOffset - 19005 | Size of Properties - 49 | Num of Properties - 5 :String[38]: 41-6D-62-69-65-6E-74-46-61-63-74-6F-72 (In ASCII: AmbientFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 19070 | Size of Properties - 51 | Num of Properties - 5 :String[29]: 42-75-6D-70-46-61-63-74-6F-72 (In ASCII: BumpFactor)
+String[17]: 64-6F-75-62-6C-65 (In ASCII: double)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 19150 | Size of Properties - 66 | Num of Properties - 7 :String[38]: 53-70-65-63-75-6C-61-72-43-6F-6C-6F-72 (In ASCII: SpecularColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,800000011920929
+Double: 0,800000011920929
+Double: 0,800000011920929
+ Size of Nested Records - 0< >
+P: EndOffset - 19214 | Size of Properties - 50 | Num of Properties - 5 :String[41]: 53-70-65-63-75-6C-61-72-46-61-63-74-6F-72 (In ASCII: SpecularFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,25
+ Size of Nested Records - 0< >
+P: EndOffset - 19273 | Size of Properties - 45 | Num of Properties - 5 :String[26]: 53-68-69-6E-69-6E-65-73-73 (In ASCII: Shininess)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 35,9999992847443
+ Size of Nested Records - 0< >
+P: EndOffset - 19340 | Size of Properties - 53 | Num of Properties - 5 :String[50]: 53-68-69-6E-69-6E-65-73-73-45-78-70-6F-6E-65-6E-74 (In ASCII: ShininessExponent)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 35,9999992847443
+ Size of Nested Records - 0< >
+P: EndOffset - 19422 | Size of Properties - 68 | Num of Properties - 7 :String[44]: 52-65-66-6C-65-63-74-69-6F-6E-43-6F-6C-6F-72 (In ASCII: ReflectionColor)
+String[14]: 43-6F-6C-6F-72 (In ASCII: Color)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0,800000011920929
+Double: 0,800000011920929
+Double: 0,800000011920929
+ Size of Nested Records - 0< >
+P: EndOffset - 19488 | Size of Properties - 52 | Num of Properties - 5 :String[47]: 52-65-66-6C-65-63-74-69-6F-6E-46-61-63-74-6F-72 (In ASCII: ReflectionFactor)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+>
+>
+AnimationStack: EndOffset - 19771 | Size of Properties - 53 | Num of Properties - 3 :Int64: 81653566
+String[101]: 41-72-6D-61-74-75-72-65-7C-41-72-6D-61-74-75-72-65-41-63-74-69-6F-6E-00-01-41-6E-69-6D-53-74-61-63-6B (In ASCII: Armature|ArmatureAction ☺AnimStack)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 19758 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< P: EndOffset - 19680 | Size of Properties - 47 | Num of Properties - 5 :String[26]: 4C-6F-63-61-6C-53-74-6F-70 (In ASCII: LocalStop)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 182820208750
+ Size of Nested Records - 0< >
+P: EndOffset - 19745 | Size of Properties - 51 | Num of Properties - 5 :String[38]: 52-65-66-65-72-65-6E-63-65-53-74-6F-70 (In ASCII: ReferenceStop)
+String[14]: 4B-54-69-6D-65 (In ASCII: KTime)
+String[11]: 54-69-6D-65 (In ASCII: Time)
+String[0]:  (In ASCII: )
+Int64: 182820208750
+ Size of Nested Records - 0< >
+>
+>
+AnimationLayer: EndOffset - 19864 | Size of Properties - 53 | Num of Properties - 3 :Int64: 768956848
+String[101]: 41-72-6D-61-74-75-72-65-7C-41-72-6D-61-74-75-72-65-41-63-74-69-6F-6E-00-01-41-6E-69-6D-4C-61-79-65-72 (In ASCII: Armature|ArmatureAction ☺AnimLayer)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< : EndOffset - 0 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 20140 | Size of Properties - 35 | Num of Properties - 3 :Int64: 43329675
+String[47]: 54-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: T ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 20127 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 20008 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 20061 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 20114 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 20504 | Size of Properties - 30 | Num of Properties - 3 :Int64: 611041603
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 20226 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 20250 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 20299 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 20346 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 20388 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 20446 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 20491 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 20868 | Size of Properties - 30 | Num of Properties - 3 :Int64: 133476025
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 20590 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 20614 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 20663 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 20710 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 20752 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 20810 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 20855 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 21232 | Size of Properties - 30 | Num of Properties - 3 :Int64: 672271073
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 20954 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 20978 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 21027 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 21074 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 21116 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 21174 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 21219 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 21508 | Size of Properties - 35 | Num of Properties - 3 :Int64: 522967975
+String[47]: 52-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: R ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 21495 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 21376 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: -90,0000093346673
+ Size of Nested Records - 0< >
+P: EndOffset - 21429 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 21482 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 21872 | Size of Properties - 30 | Num of Properties - 3 :Int64: 18500260
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 21594 | Size of Properties - 9 | Num of Properties - 1 :Double: -90,0000093346673
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 21618 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 21667 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 21714 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 21756 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 21814 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 21859 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 22236 | Size of Properties - 30 | Num of Properties - 3 :Int64: 801373051
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 21958 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 21982 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 22031 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 22078 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 22120 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 22178 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 22223 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 22600 | Size of Properties - 30 | Num of Properties - 3 :Int64: 732159450
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 22322 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 22346 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 22395 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 22442 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 22484 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 22542 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 22587 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 22876 | Size of Properties - 35 | Num of Properties - 3 :Int64: 199696694
+String[47]: 53-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: S ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 22863 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 22744 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 100
+ Size of Nested Records - 0< >
+P: EndOffset - 22797 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 100
+ Size of Nested Records - 0< >
+P: EndOffset - 22850 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 100
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 23240 | Size of Properties - 30 | Num of Properties - 3 :Int64: 764906963
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 22962 | Size of Properties - 9 | Num of Properties - 1 :Double: 100
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 22986 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 23035 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 23082 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 23124 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 23182 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 23227 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 23604 | Size of Properties - 30 | Num of Properties - 3 :Int64: 279432340
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 23326 | Size of Properties - 9 | Num of Properties - 1 :Double: 100
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 23350 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 23399 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 23446 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 23488 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 23546 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 23591 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 23968 | Size of Properties - 30 | Num of Properties - 3 :Int64: 928664313
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 23690 | Size of Properties - 9 | Num of Properties - 1 :Double: 100
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 23714 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 23763 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 23810 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 23852 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 23910 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 23955 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 24244 | Size of Properties - 35 | Num of Properties - 3 :Int64: 930199752
+String[47]: 54-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: T ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 24231 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 24112 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 24165 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 24218 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 24608 | Size of Properties - 30 | Num of Properties - 3 :Int64: 609721677
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 24330 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 24354 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 24403 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 24450 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 24492 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 24550 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 24595 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 24972 | Size of Properties - 30 | Num of Properties - 3 :Int64: 495364561
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 24694 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 24718 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 24767 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 24814 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 24856 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 24914 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 24959 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 25336 | Size of Properties - 30 | Num of Properties - 3 :Int64: 39715450
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 25058 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 25082 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 25131 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 25178 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 25220 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 25278 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 25323 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 25612 | Size of Properties - 35 | Num of Properties - 3 :Int64: 41603724
+String[47]: 52-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: R ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 25599 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 25480 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 90,0000093346673
+ Size of Nested Records - 0< >
+P: EndOffset - 25533 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 0
+ Size of Nested Records - 0< >
+P: EndOffset - 25586 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 3,73386770842217E-05
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 25976 | Size of Properties - 30 | Num of Properties - 3 :Int64: 553931131
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 25698 | Size of Properties - 9 | Num of Properties - 1 :Double: 90,0000093346673
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 25722 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 25771 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 25818 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 25860 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 25918 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 25963 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 26340 | Size of Properties - 30 | Num of Properties - 3 :Int64: 188347276
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 26062 | Size of Properties - 9 | Num of Properties - 1 :Double: 0
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 26086 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 26135 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 26182 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 26224 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 26282 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 26327 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 27638 | Size of Properties - 30 | Num of Properties - 3 :Int64: 211320294
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 26426 | Size of Properties - 9 | Num of Properties - 1 :Double: 3,73386770842217E-05
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 26450 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 27046 | Size of Properties - 576 | Num of Properties - 1 :Int64 Array[96]: 0 , 1924423250 , 3848846500 , 5773269750 , 7697693000 , 9622116250 , 11546539500 , 13470962750 , 15395386000 , 17319809250 , 19244232500 , 21168655750 , 23093079000 , 25017502250 , 26941925500 , 28866348750 , 30790772000 , 32715195250 , 34639618500 , 36564041750 , 38488465000 , 40412888250 , 42337311500 , 44261734750 , 46186158000 , 48110581250 , 50035004500 , 51959427750 , 53883851000 , 55808274250 , 57732697500 , 59657120750 , 61581544000 , 63505967250 , 65430390500 , 67354813750 , 69279237000 , 71203660250 , 73128083500 , 75052506750 , 76976930000 , 78901353250 , 80825776500 , 82750199750 , 84674623000 , 86599046250 , 88523469500 , 90447892750 , 92372316000 , 94296739250 , 96221162500 , 98145585750 , 100070009000 , 101994432250 , 103918855500 , 105843278750 , 107767702000 , 109692125250 , 111616548500 , 113540971750 , 115465395000 , 117389818250 , 119314241500 , 121238664750 , 123163088000 , 125087511250 , 127011934500 , 128936357750 , 130860781000 , 132785204250 , 134709627500 , 136634050750 , 138558474000 , 140482897250 , 142407320500 , 144331743750 , 146256167000 , 148180590250 , 150105013500 , 152029436750 , 153953860000 , 155878283250 , 157802706500 , 159727129750 , 161651553000 , 163575976250 , 165500399500 , 167424822750 , 169349246000 , 171273669250 , 173198092500 , 175122515750 , 177046939000 , 178971362250 , 180895785500 , 182820208750 ,
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 27480 | Size of Properties - 408 | Num of Properties - 1 :Single Array[96]: 0 , 0,2887729 , 1,133521 , 2,501887 , 4,361514 , 6,680047 , 9,42513 , 12,5644 , 16,06551 , 19,8961 , 24,02382 , 28,41629 , 33,04118 , 37,86611 , 42,85875 , 47,98673 , 53,21769 , 58,51927 , 63,85913 , 69,2049 , 74,52424 , 79,78477 , 84,95413 , 90 , 94,89651 , 99,6439 , 104,2489 , 108,7182 , 113,0587 , 117,2769 , 121,3798 , 125,374 , 129,2662 , 133,0632 , 136,7718 , 140,3986 , 143,9505 , 147,4341 , 150,8562 , 154,2236 , 157,5429 , 160,821 , 164,0645 , 167,2802 , 170,4749 , 173,6553 , 176,828 , 180 , 183,1776 , 186,3664 , 189,5716 , 192,7985 , 196,0524 , 199,3385 , 202,6621 , 206,0285 , 209,4428 , 212,9105 , 216,4367 , 220,0267 , 223,6858 , 227,4192 , 231,2322 , 235,1301 , 239,1181 , 243,2016 , 247,3856 , 251,6756 , 256,0768 , 260,5944 , 265,2337 , 270 , 274,8931 , 279,8906 , 284,9647 , 290,0877 , 295,2317 , 300,369 , 305,4718 , 310,5122 , 315,4625 , 320,2949 , 324,9815 , 329,4947 , 333,8065 , 337,8893 , 341,7151 , 345,2561 , 348,4847 , 351,373 , 353,8932 , 356,0176 , 357,7182 , 358,9674 , 359,7372 , 360 ,
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 27522 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 27580 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 27625 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurveNode: EndOffset - 27914 | Size of Properties - 35 | Num of Properties - 3 :Int64: 682576915
+String[47]: 53-00-01-41-6E-69-6D-43-75-72-76-65-4E-6F-64-65 (In ASCII: S ☺AnimCurveNode)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 1< Properties70: EndOffset - 27901 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 3< P: EndOffset - 27782 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-58 (In ASCII: d|X)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 27835 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-59 (In ASCII: d|Y)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+P: EndOffset - 27888 | Size of Properties - 39 | Num of Properties - 5 :String[8]: 64-7C-5A (In ASCII: d|Z)
+String[17]: 4E-75-6D-62-65-72 (In ASCII: Number)
+String[0]:  (In ASCII: )
+String[2]: 41 (In ASCII: A)
+Double: 1
+ Size of Nested Records - 0< >
+>
+>
+AnimationCurve: EndOffset - 28278 | Size of Properties - 30 | Num of Properties - 3 :Int64: 630814326
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 28000 | Size of Properties - 9 | Num of Properties - 1 :Double: 1
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 28024 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 28073 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 28120 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 28162 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 28220 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 28265 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 28642 | Size of Properties - 30 | Num of Properties - 3 :Int64: 363264746
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 28364 | Size of Properties - 9 | Num of Properties - 1 :Double: 1
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 28388 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 28437 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 28484 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 28526 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 28584 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 28629 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+AnimationCurve: EndOffset - 29006 | Size of Properties - 30 | Num of Properties - 3 :Int64: 278998385
+String[32]: 00-01-41-6E-69-6D-43-75-72-76-65 (In ASCII:  ☺AnimCurve)
+String[0]:  (In ASCII: )
+ Size of Nested Records - 7< Default: EndOffset - 28728 | Size of Properties - 9 | Num of Properties - 1 :Double: 1
+ Size of Nested Records - 0< >
+KeyVer: EndOffset - 28752 | Size of Properties - 5 | Num of Properties - 1 :Int32: 4008
+ Size of Nested Records - 0< >
+KeyTime: EndOffset - 28801 | Size of Properties - 29 | Num of Properties - 1 :Int64 Array[0]:
+ Size of Nested Records - 0< >
+KeyValueFloat: EndOffset - 28848 | Size of Properties - 21 | Num of Properties - 1 :Single Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrFlags: EndOffset - 28890 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+KeyAttrDataFloat: EndOffset - 28948 | Size of Properties - 29 | Num of Properties - 1 :Single Array[1]: 0 ,
+ Size of Nested Records - 0< >
+KeyAttrRefCount: EndOffset - 28993 | Size of Properties - 17 | Num of Properties - 1 :Int32 Array[0]:
+ Size of Nested Records - 0< >
+>
+>
+
+Connections: EndOffset - 30905 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 41< C: EndOffset - 29082 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 650113076
+Int64: 0
+ Size of Nested Records - 0< >
+C: EndOffset - 29121 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 53251575
+Int64: 0
+ Size of Nested Records - 0< >
+C: EndOffset - 29160 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 134740199
+Int64: 53251575
+ Size of Nested Records - 0< >
+C: EndOffset - 29199 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 527200724
+Int64: 650113076
+ Size of Nested Records - 0< >
+C: EndOffset - 29238 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 365304999
+Int64: 53251575
+ Size of Nested Records - 0< >
+C: EndOffset - 29277 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 61276249
+Int64: 134740199
+ Size of Nested Records - 0< >
+C: EndOffset - 29316 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 944178657
+Int64: 527200724
+ Size of Nested Records - 0< >
+C: EndOffset - 29355 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 417288958
+Int64: 944178657
+ Size of Nested Records - 0< >
+C: EndOffset - 29394 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 134740199
+Int64: 417288958
+ Size of Nested Records - 0< >
+C: EndOffset - 29433 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 313738957
+Int64: 650113076
+ Size of Nested Records - 0< >
+C: EndOffset - 29472 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 768956848
+Int64: 81653566
+ Size of Nested Records - 0< >
+C: EndOffset - 29511 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 43329675
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 29570 | Size of Properties - 45 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 43329675
+Int64: 53251575
+String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+ Size of Nested Records - 0< >
+C: EndOffset - 29617 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 611041603
+Int64: 43329675
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 29664 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 133476025
+Int64: 43329675
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 29711 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 672271073
+Int64: 43329675
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+C: EndOffset - 29750 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 522967975
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 29806 | Size of Properties - 42 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 522967975
+Int64: 53251575
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+ Size of Nested Records - 0< >
+C: EndOffset - 29853 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 18500260
+Int64: 522967975
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 29900 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 801373051
+Int64: 522967975
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 29947 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 732159450
+Int64: 522967975
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+C: EndOffset - 29986 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 199696694
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 30041 | Size of Properties - 41 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 199696694
+Int64: 53251575
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+ Size of Nested Records - 0< >
+C: EndOffset - 30088 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 764906963
+Int64: 199696694
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 30135 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 279432340
+Int64: 199696694
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 30182 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 928664313
+Int64: 199696694
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+C: EndOffset - 30221 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 930199752
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 30280 | Size of Properties - 45 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 930199752
+Int64: 134740199
+String[44]: 4C-63-6C-20-54-72-61-6E-73-6C-61-74-69-6F-6E (In ASCII: Lcl Translation)
+ Size of Nested Records - 0< >
+C: EndOffset - 30327 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 609721677
+Int64: 930199752
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 30374 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 495364561
+Int64: 930199752
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 30421 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 39715450
+Int64: 930199752
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+C: EndOffset - 30460 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 41603724
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 30516 | Size of Properties - 42 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 41603724
+Int64: 134740199
+String[35]: 4C-63-6C-20-52-6F-74-61-74-69-6F-6E (In ASCII: Lcl Rotation)
+ Size of Nested Records - 0< >
+C: EndOffset - 30563 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 553931131
+Int64: 41603724
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 30610 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 188347276
+Int64: 41603724
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 30657 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 211320294
+Int64: 41603724
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+C: EndOffset - 30696 | Size of Properties - 25 | Num of Properties - 3 :String[5]: 4F-4F (In ASCII: OO)
+Int64: 682576915
+Int64: 768956848
+ Size of Nested Records - 0< >
+C: EndOffset - 30751 | Size of Properties - 41 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 682576915
+Int64: 134740199
+String[32]: 4C-63-6C-20-53-63-61-6C-69-6E-67 (In ASCII: Lcl Scaling)
+ Size of Nested Records - 0< >
+C: EndOffset - 30798 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 630814326
+Int64: 682576915
+String[8]: 64-7C-58 (In ASCII: d|X)
+ Size of Nested Records - 0< >
+C: EndOffset - 30845 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 363264746
+Int64: 682576915
+String[8]: 64-7C-59 (In ASCII: d|Y)
+ Size of Nested Records - 0< >
+C: EndOffset - 30892 | Size of Properties - 33 | Num of Properties - 4 :String[5]: 4F-50 (In ASCII: OP)
+Int64: 278998385
+Int64: 682576915
+String[8]: 64-7C-5A (In ASCII: d|Z)
+ Size of Nested Records - 0< >
+>
+
+Takes: EndOffset - 31156 | Size of Properties - 0 | Num of Properties - 0 : Size of Nested Records - 2< Current: EndOffset - 30948 | Size of Properties - 5 | Num of Properties - 1 :String[0]:  (In ASCII: )
+ Size of Nested Records - 0< >
+Take: EndOffset - 31143 | Size of Properties - 28 | Num of Properties - 1 :String[68]: 41-72-6D-61-74-75-72-65-7C-41-72-6D-61-74-75-72-65-41-63-74-69-6F-6E (In ASCII: Armature|ArmatureAction)
+ Size of Nested Records - 3< FileName: EndOffset - 31046 | Size of Properties - 32 | Num of Properties - 1 :String[80]: 41-72-6D-61-74-75-72-65-7C-41-72-6D-61-74-75-72-65-41-63-74-69-6F-6E-2E-74-61-6B (In ASCII: Armature|ArmatureAction.tak)
+ Size of Nested Records - 0< >
+LocalTime: EndOffset - 31086 | Size of Properties - 18 | Num of Properties - 2 :Int64: 0
+Int64: 182820208750
+ Size of Nested Records - 0< >
+ReferenceTime: EndOffset - 31130 | Size of Properties - 18 | Num of Properties - 2 :Int64: 0
+Int64: 182820208750
+ Size of Nested Records - 0< >
+>
+>
