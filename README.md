@@ -17,5 +17,9 @@ The project, for now, can parse the file into the node format and, from that, ex
 The project still cannot extract mesh data, material data, full armature data (only bone names for the animation data), video data and the other data types
 embeded in a fbx file. There are some rare cases where the animation data is not read correctly, that usually happens when other things then bones are animated.
 
+### Credits
+
+* Thanks [DinoChiesa](https://github.com/DinoChiesa/DotNetZip) for making [DotNetZip](https://github.com/DinoChiesa/DotNetZip) and making [Zlib](https://www.zlib.net/) work in Dot Net.
+* Thanks developers from Blender Developers Blogs for writing all your findings about the [FBX file format](https://code.blender.org/2013/08/fbx-binary-file-format-specification/), whithout it this project wouldn't be possible.
 
 Fell free to use this project in anything that you want and to help improving it.
