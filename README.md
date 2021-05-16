@@ -18,4 +18,4 @@ The project still cannot extract mesh data, material data, full armature data (o
 embeded in a fbx file. There are some rare cases where the animation data is not read correctly, that usually happens when other things then bones are animated.
 
 
-Fell free to use it in any project that you want and to help the project
+Fell free to use this project in anything that you want and to help improving it.
