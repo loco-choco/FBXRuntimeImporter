@@ -60,7 +60,7 @@ namespace FBXRuntimeImporter
                     + "\n\n" + Takes.ToString();
         }
 
-        public FBXAnimation[] ReadAnimation()
+        public FBXAnimation[] ReadAnimations()
         {
             List<FBXAnimationGroup> animationsInNodes = new List<FBXAnimationGroup>();
             List<string> boneNames = new List<string>();

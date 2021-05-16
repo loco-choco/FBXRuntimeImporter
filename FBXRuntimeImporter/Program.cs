@@ -15,15 +15,15 @@ namespace FBXRuntimeImporter
 
             while (!filePath.EndsWith(".fbx"))
             {
-                Console.Write("Caminho do arquivo (.fbx): ");
+                Console.Write("Absolute file path (.fbx): ");
                 filePath = Console.ReadLine();
             }
 
             FBXFileParser fbxFile = new FBXFileParser(filePath);
 
             //Console.WriteLine("Versao do Arquivo: " + fbxFile.FileVersion);
-            //Console.WriteLine(fbxFile. AllNodesToString());
-            var animations = fbxFile.ReadAnimation();
+            //Console.WriteLine(fbxFile.AllNodesToString());
+            FBXAnimation[] animations = fbxFile.ReadAnimations();
             
             Console.WriteLine("Arquivo Interpretado :)");
             Console.Read();

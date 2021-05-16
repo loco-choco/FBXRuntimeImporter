@@ -32,9 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ionic.Zlib">
-      <HintPath>..\..\DotNetZip\Zlib\bin\Release\Ionic.Zlib.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -47,6 +44,20 @@
     <Compile Include="GenericFBXNodeRead\FBXPacketReader.cs" />
     <Compile Include="GenericFBXNodeRead\FBXProperty.cs" />
     <Compile Include="GenericFBXNodeRead\FBXRecordNode.cs" />
+    <Compile Include="Ionic.Zlib\CommonSrc\CRC32.cs" />
+    <Compile Include="Ionic.Zlib\CommonSrc\Iso8859Dash1Encoding.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\Deflate.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\DeflateStream.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\GZipStream.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\Inflate.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\InfTree.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\ParallelDeflateOutputStream.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\Tree.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\Zlib.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\ZlibBaseStream.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\ZlibCodec.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\ZlibConstants.cs" />
+    <Compile Include="Ionic.Zlib\Zlib\ZlibStream.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
