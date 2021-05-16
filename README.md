@@ -20,6 +20,6 @@ embeded in a fbx file. There are some rare cases where the animation data is not
 ### Credits
 
 * Thanks [DinoChiesa](https://github.com/DinoChiesa/DotNetZip) for making [DotNetZip](https://github.com/DinoChiesa/DotNetZip) and making [Zlib](https://www.zlib.net/) work in Dot Net.
-* Thanks developers from Blender Developers Blogs for writing all your findings about the [FBX file format](https://code.blender.org/2013/08/fbx-binary-file-format-specification/), whithout it this project wouldn't be possible.
+* Thanks developers from Blender Developers Blogs for writing all your findings about the [FBX file format](https://code.blender.org/2013/08/fbx-binary-file-format-specification/), without it this project wouldn't be possible.
 
 Fell free to use this project in anything that you want and to help improving it.
