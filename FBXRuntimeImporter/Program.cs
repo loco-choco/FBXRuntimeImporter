@@ -22,7 +22,7 @@ namespace FBXRuntimeImporter
             FBXFileParser fbxFile = new FBXFileParser(filePath);
 
             //Console.WriteLine("Versao do Arquivo: " + fbxFile.FileVersion);
-            //Console.WriteLine(fbxFile.AllNodesToString());
+            Console.WriteLine(fbxFile.AllNodesToString());
             FBXAnimation[] animations = fbxFile.ReadAnimations();
             
             Console.WriteLine("Arquivo Interpretado :)");

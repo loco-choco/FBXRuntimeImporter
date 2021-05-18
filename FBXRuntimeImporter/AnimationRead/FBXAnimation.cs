@@ -64,9 +64,19 @@ namespace FBXRuntimeImporter.AnimationRead
 
         static public FBXAnimationCurve[] GenerateAnimationCurveTrio(FBXAnimationNode AnimationCurveNode)
         {
-            FBXAnimationCurve[] curves = { new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[0]),
+            var curveNodes = AnimationCurveNode.AnimationCurves;
+            if (curveNodes != null)
+            {
+                if (curveNodes.Count == 3)
+                    return  new FBXAnimationCurve[] {new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[0]),
                 new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[1]), new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[2]) };
-            return curves;
+                else if (curveNodes.Count == 2)
+                    return new FBXAnimationCurve[]{ new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[0]),
+                new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[1])};
+                else if (curveNodes.Count == 1)
+                    return new FBXAnimationCurve[]{ new FBXAnimationCurve(AnimationCurveNode.AnimationCurves[0])};
+            }
+            return new FBXAnimationCurve[] { };
         }
     }
 }
