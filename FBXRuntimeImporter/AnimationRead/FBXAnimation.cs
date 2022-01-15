@@ -6,8 +6,8 @@ namespace FBXRuntimeImporter.AnimationRead
 {
     public class FBXAnimation
     {
-        FBXBoneAnimation[] BonesAnimation;
-        FBXAnimationNode[] AnimationNodesLeft;
+        public FBXBoneAnimation[] BonesAnimation;
+        public FBXAnimationNode[] AnimationNodesLeft;
         public FBXAnimation(FBXAnimationGroup AnimationGroup, string[] BoneNames)
         {
             BonesAnimation = new FBXBoneAnimation[BoneNames.Length];

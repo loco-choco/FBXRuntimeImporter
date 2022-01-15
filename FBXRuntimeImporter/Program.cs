@@ -21,10 +21,19 @@ namespace FBXRuntimeImporter
 
             FBXFileParser fbxFile = new FBXFileParser(filePath);
 
-            //Console.WriteLine("Versao do Arquivo: " + fbxFile.FileVersion);
-            Console.WriteLine(fbxFile.AllNodesToString());
+            Console.WriteLine("Versao do Arquivo: " + fbxFile.FileVersion);
+            //Console.WriteLine(fbxFile.AllNodesToString());
             FBXAnimation[] animations = fbxFile.ReadAnimations();
-            
+            Console.WriteLine(animations.Length);
+            for(int i = 0; i < animations.Length; i++)
+            {
+                Console.WriteLine("Anim " + i);
+                foreach (var anim in animations[i].BonesAnimation) 
+                {
+                    Console.WriteLine(anim.BoneName);
+                    Console.WriteLine(anim.PositionCurves.Length);
+                }
+            }
             Console.WriteLine("Arquivo Interpretado :)");
             Console.Read();
         }
